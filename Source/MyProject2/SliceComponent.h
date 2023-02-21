@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "SlicingGameMode.h" //Talvez n„o seja necess·rio
+#include "SlicingGameMode.h" //Talvez n√£o seja necess√°rio
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "SliceComponent.generated.h"

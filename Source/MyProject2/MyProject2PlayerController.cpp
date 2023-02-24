@@ -16,6 +16,18 @@ AMyProject2PlayerController::AMyProject2PlayerController()
 	DefaultMouseCursor = EMouseCursor::Default;
 	CachedDestination = FVector::ZeroVector;
 	FollowTime = 0.f;
+
+	//Constructor initilisation of customisation components
+
+	BlueJacketMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("BlueJacketMesh"));
+	BlueJacketMesh-> SetupAttachment(GetMesh());
+	
+	PinkJacketMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("PinkJacketMesh"));
+	PinkJacketMesh-> SetupAttachment(GetMesh());
+
+	PinkHatMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("PinkHatMesh"));
+	PinkHatMesh-> SetupAttachment(GetMesh());
+	
 }
 
 void AMyProject2PlayerController::BeginPlay()
@@ -28,6 +40,10 @@ void AMyProject2PlayerController::BeginPlay()
 	{
 		Subsystem->AddMappingContext(DefaultMappingContext, 0);
 	}
+
+	BlueJacketMesh->SetMasterPoseComponent(GetMesh());
+	PinkJacketMesh->SetMasterPoseComponent(GetMesh());
+	PinkHatMesh->SetMasterPoseComponent(GetMesh());
 }
 
 void AMyProject2PlayerController::SetupInputComponent()

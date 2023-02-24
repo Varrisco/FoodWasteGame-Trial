@@ -39,6 +39,17 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Input, meta=(AllowPrivateAccess = "true"))
 	class UInputAction* SetDestinationTouchAction;
 
+	//Code added for clothing properties
+
+	UPROPERTY(EditAnywhere)
+	USkeletalMeshComponent* BlueJacketMesh;
+	
+	UPROPERTY(EditAnywhere)
+	USkeletalMeshComponent* PinkJacketMesh;
+	
+	UPROPERTY(EditAnywhere)
+	USkeletalMeshComponent* PinkHatMesh;
+	
 protected:
 	/** True if the controlled character should navigate to the mouse cursor. */
 	uint32 bMoveToMouseCursor : 1;

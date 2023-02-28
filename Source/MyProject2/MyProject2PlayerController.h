@@ -41,14 +41,14 @@ public:
 
 	//Code added for clothing properties
 
-	UPROPERTY(EditAnywhere)
-	USkeletalMeshComponent* BlueJacketMesh;
+//	UPROPERTY(EditAnywhere)
+//	USkeletalMeshComponent* BlueJacketMesh;
 	
-	UPROPERTY(EditAnywhere)
-	USkeletalMeshComponent* PinkJacketMesh;
+//	UPROPERTY(EditAnywhere)
+//	USkeletalMeshComponent* PinkJacketMesh;
 	
-	UPROPERTY(EditAnywhere)
-	USkeletalMeshComponent* PinkHatMesh;
+//	UPROPERTY(EditAnywhere)
+//	USkeletalMeshComponent* PinkHatMesh;
 	
 protected:
 	/** True if the controlled character should navigate to the mouse cursor. */

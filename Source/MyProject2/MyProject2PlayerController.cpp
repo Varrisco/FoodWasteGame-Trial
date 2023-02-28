@@ -10,6 +10,7 @@
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 
+
 AMyProject2PlayerController::AMyProject2PlayerController()
 {
 	bShowMouseCursor = true;
@@ -17,16 +18,16 @@ AMyProject2PlayerController::AMyProject2PlayerController()
 	CachedDestination = FVector::ZeroVector;
 	FollowTime = 0.f;
 
-	//Constructor initilisation of customisation components
+	//Constructor initilization of customisation components RIP
 
-	BlueJacketMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("BlueJacketMesh"));
-	BlueJacketMesh-> SetupAttachment(GetMesh());
+	//BlueJacketMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("BlueJacketMesh"));
+	//BlueJacketMesh-> SetupAttachment(GetMesh()); //GetMesh
 	
-	PinkJacketMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("PinkJacketMesh"));
-	PinkJacketMesh-> SetupAttachment(GetMesh());
+	//PinkJacketMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("PinkJacketMesh"));
+	//PinkJacketMesh-> SetupAttachment(GetMesh());
 
-	PinkHatMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("PinkHatMesh"));
-	PinkHatMesh-> SetupAttachment(GetMesh());
+	//PinkHatMesh = CreateDefaultSubobject<USkeletalMeshComponent>(FName("PinkHatMesh"));
+	//PinkHatMesh-> SetupAttachment(GetMesh());
 	
 }
 
@@ -41,9 +42,9 @@ void AMyProject2PlayerController::BeginPlay()
 		Subsystem->AddMappingContext(DefaultMappingContext, 0);
 	}
 
-	BlueJacketMesh->SetMasterPoseComponent(GetMesh());
-	PinkJacketMesh->SetMasterPoseComponent(GetMesh());
-	PinkHatMesh->SetMasterPoseComponent(GetMesh());
+//	BlueJacketMesh->AttachToComponent(GetMesh());
+//	PinkJacketMesh->SetLeaderPoseComponent(GetMesh());
+//	PinkHatMesh->SetLeaderPoseComponent(GetMesh());
 }
 
 void AMyProject2PlayerController::SetupInputComponent()

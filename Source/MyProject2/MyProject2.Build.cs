@@ -1,13 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-using UnrealBuildTool;
-
-public class MyProject2 : ModuleRules
-{
-	public MyProject2(ReadOnlyTargetRules Target) : base(Target)
-	{
-		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
-
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "NavigationSystem", "AIModule", "Niagara", "EnhancedInput" });
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d140a329eb898669b53cbce6018bd8ef7ba16aece46a46dcb70ea36c51dabd64
+size 432

@@ -1,9 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#include "MyProject2.h"
-#include "Modules/ModuleManager.h"
-
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, MyProject2, "MyProject2" );
-
-DEFINE_LOG_CATEGORY(LogMyProject2)
- 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0435a9430ac98f11ac6a6623146b940c650fc2e6cb566ccd8b22ac1011a2d7d
+size 232

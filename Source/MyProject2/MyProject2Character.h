@@ -1,34 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "GameFramework/Character.h"
-#include "MyProject2Character.generated.h"
-
-UCLASS(Blueprintable)
-class AMyProject2Character : public ACharacter
-{
-	GENERATED_BODY()
-
-public:
-	AMyProject2Character();
-
-	// Called every frame.
-	virtual void Tick(float DeltaSeconds) override;
-
-	/** Returns TopDownCameraComponent subobject **/
-	FORCEINLINE class UCameraComponent* GetTopDownCameraComponent() const { return TopDownCameraComponent; }
-	/** Returns CameraBoom subobject **/
-	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
-
-private:
-	/** Top down camera */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class UCameraComponent* TopDownCameraComponent;
-
-	/** Camera boom positioning the camera above the character */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class USpringArmComponent* CameraBoom;
-};
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdaec86f98762094671b33b614e1b4965746dfb24bd8ae134c56e847877a07a5
+size 1048

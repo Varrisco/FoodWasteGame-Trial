@@ -1,0 +1,10 @@
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=16E8795843FEEFE029ED99A8D38DCB41
+ProjectName=Top Down Game Template
+bShouldWindowPreserveAspectRatio=True
+CompanyName=LivLafLuv17Black
+
+[/Script/MyProject2.MyProject2Character]
+FixedCameraPitch=-45.0
+FixedCameraDistance=1500.0
+

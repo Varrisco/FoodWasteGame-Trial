@@ -1,0 +1,8 @@
+Good commands for performance eheh:
+
+sg.EffectsQuality 0
+r.ScreenPercentage 66-80?
+sg.TextureQuality 0 ??
+sg.ShadowQuality 0
+sg.PostProcessQuality 0 ?
+r.PostProcessAAQuality 0?

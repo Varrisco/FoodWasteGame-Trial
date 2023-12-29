@@ -1,0 +1,2108 @@
+﻿# en English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"POT-Creation-Date: 2023-12-29 15:10\n"
+"PO-Revision-Date: 2023-12-29 15:10\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	001FA8534A40705717F0628C7685F152
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_12.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_12.Text
+msgctxt ",001FA8534A40705717F0628C7685F152"
+msgid "Mara Dionísio"
+msgstr "Mara Dionísio"
+
+#. Key:	004581274D93C05B2974EC84C3088C3A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CarrotAsset.CarrotAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CarrotAsset.CarrotAsset.TooltipDialogue
+msgctxt ",004581274D93C05B2974EC84C3088C3A"
+msgid "é arrumada no frigorífico ou despensa"
+msgstr "is stored in the fridge or pantry"
+
+#. Key:	00608AD4415F5AAC276C56A149B093EF
+#. SourceLocation:	/Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.Dialogue.Text
+#: /Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.Dialogue.Text
+msgctxt ",00608AD4415F5AAC276C56A149B093EF"
+msgid "Dialogue"
+msgstr ""
+
+#. Key:	00CAE92F487914F6F06F94BBC28F2E13
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.EmptyJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.EmptyJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",00CAE92F487914F6F06F94BBC28F2E13"
+msgid "EmptyJacket"
+msgstr ""
+
+#. Key:	0212E8A2440F6848E782E9ADA457C382
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OrangeAsset.OrangeAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OrangeAsset.OrangeAsset.TooltipDialogue
+msgctxt ",0212E8A2440F6848E782E9ADA457C382"
+msgid "é arrumada no frigorífico ou despensa"
+msgstr "is stored in the fridge or pantry"
+
+#. Key:	03DE95564FE975BD12E6C5BC9B1787A1
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:WidgetTree.AddedXPText.Text
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:WidgetTree.AddedXPText.Text
+msgctxt ",03DE95564FE975BD12E6C5BC9B1787A1"
+msgid "Queres entrar nesta zona?"
+msgstr "Do you want to enter this zone?"
+
+#. Key:	0556D9D9DF48A15A442C55857B071711
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+msgctxt ",0556D9D9DF48A15A442C55857B071711"
+msgid "Boa escolha!"
+msgstr "Good choice!"
+
+#. Key:	058A80604A36DB43E4983BB41229EC9C
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+msgctxt ",058A80604A36DB43E4983BB41229EC9C"
+msgid "Carnes"
+msgstr "Meat"
+
+#. Key:	05A78566DD404BB4E47D7B9B60FD66D8
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceTunaData.SliceTunaData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceTunaData.SliceTunaData.Description
+msgctxt ",05A78566DD404BB4E47D7B9B60FD66D8"
+msgid "Atum"
+msgstr "Tuna"
+
+#. Key:	07DD085F8C4DB20449CBB59E6ABB3E59
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_15.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_15.Text
+msgctxt ",07DD085F8C4DB20449CBB59E6ABB3E59"
+msgid "Sandra Olim"
+msgstr "Sandra Olim"
+
+#. Key:	080F16624B6A6CDF5B90E88C336AB97F
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+msgctxt ",080F16624B6A6CDF5B90E88C336AB97F"
+msgid "Manteiga/Ovos"
+msgstr "Butter/Eggs"
+
+#. Key:	08302A8A4EE285A4916B92BF4A2EC881
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.FeedbackText.Text
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.FeedbackText.Text
+msgctxt ",08302A8A4EE285A4916B92BF4A2EC881"
+msgid "Queres entrar nesta zona?"
+msgstr "Do you want to enter this zone?"
+
+#. Key:	0A3E48BD454C0B6244B73E88B51C9017
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_1.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_1.Text
+msgctxt ",0A3E48BD454C0B6244B73E88B51C9017"
+msgid "Créditos"
+msgstr "Credits"
+
+#. Key:	0A64E8EE426F0FA4F9A381BBB28A5F3A
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+msgctxt ",0A64E8EE426F0FA4F9A381BBB28A5F3A"
+msgid "Boa escolha!"
+msgstr "Good choice!"
+
+#. Key:	0AFC01BE7447F5E429B2DF87935F1F11
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.TomatoTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.TomatoTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",0AFC01BE7447F5E429B2DF87935F1F11"
+msgid "Este troféu foi desbloqueado ao concluíres o dia 2."
+msgstr "This trophy was unlocked by completing day 2."
+
+#. Key:	0B797227514927213B1D09A967C39C4C
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.SpecialThanks.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.SpecialThanks.Text
+msgctxt ",0B797227514927213B1D09A967C39C4C"
+msgid "A special thanks to my dearest friends <3 \nTo my parents, siblings and grandma! \nAn enormous thanks to my mental health nurse and therapist! <3\nLastly a thanks to the enormous list of music artists\nfor having spent hours with me, in specifially\nto Halsey, Olivia Rodrigo and Holly Humberstone "
+msgstr ""
+
+#. Key:	0C180834BD444B8FD49093ADDBC907AE
+#. SourceLocation:	/Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.TextBlock.Text
+#: /Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.TextBlock.Text
+msgctxt ",0C180834BD444B8FD49093ADDBC907AE"
+msgid "Novo Nível:"
+msgstr "New Level:"
+
+#. Key:	0D04C69E42AFE21E1D3CB1934BF995F8
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.YellowJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.YellowJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",0D04C69E42AFE21E1D3CB1934BF995F8"
+msgid "YellowJacket"
+msgstr ""
+
+#. Key:	0E20A04A444356F442B4D7ACBC09AFB1
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/AppleAsset.AppleAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/AppleAsset.AppleAsset.TooltipDialogue
+msgctxt ",0E20A04A444356F442B4D7ACBC09AFB1"
+msgid "é arrumada no frigorífico ou despensa"
+msgstr "is stored in the fridge or pantry"
+
+#. Key:	0EB16CE540148016FD9B58AA9F332899
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/FoodBowlAsset.FoodBowlAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/FoodBowlAsset.FoodBowlAsset.StoringZones(0).StoringZones
+msgctxt ",0EB16CE540148016FD9B58AA9F332899"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	0F0F13464F4F186C0D7EC08F7DFBD492
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.BreadTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.BreadTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",0F0F13464F4F186C0D7EC08F7DFBD492"
+msgid "Este troféu foi desbloqueado ao concluíres o dia 3."
+msgstr "This trophy was unlocked by completing day 3."
+
+#. Key:	0FCB79AF4210A14E5D5F4C878EDAC91B
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TomatoAsset.TomatoAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TomatoAsset.TomatoAsset.Description
+msgctxt ",0FCB79AF4210A14E5D5F4C878EDAC91B"
+msgid "o tomate"
+msgstr "the tomato"
+
+#. Key:	100393494AC517E52802749839F29619
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+msgctxt ",100393494AC517E52802749839F29619"
+msgid "Boa arrumação!"
+msgstr "Well stored!"
+
+#. Key:	108EE7766D4B153C29D547ACE0523D1F
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_28.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_28.Text
+msgctxt ",108EE7766D4B153C29D547ACE0523D1F"
+msgid "Interface & Items Sounds Pack by Daydream Sound"
+msgstr "Interface & Items Sounds Pack by Daydream Sound"
+
+#. Key:	1259D0BB89488EA13B115494A6F06F3B
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.BookTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.BookTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",1259D0BB89488EA13B115494A6F06F3B"
+msgid "Este troféu foi desbloqueado ao conseguires fazer a escolha correta da receita."
+msgstr "This trophy was unlocked by selecting the correct recipe."
+
+#. Key:	1281CEA942D169E142CAE5B96091D535
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CheeseAsset.CheeseAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CheeseAsset.CheeseAsset.TooltipDialogue
+msgctxt ",1281CEA942D169E142CAE5B96091D535"
+msgid "é arrumado no frigorífico "
+msgstr "is stored in the fridge"
+
+#. Key:	12FDA5F34E067C7E22B4E0AF7659DB49
+#. SourceLocation:	/Game/LevelsParameters/Cooking/Structures/ECookToolType.ECookToolType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Cooking/Structures/ECookToolType.ECookToolType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",12FDA5F34E067C7E22B4E0AF7659DB49"
+msgid "Pot"
+msgstr ""
+
+#. Key:	15031CC06A413916D2E6D9A8C8AD6147
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+msgctxt ",15031CC06A413916D2E6D9A8C8AD6147"
+msgid "Frigorífico"
+msgstr "Fridge"
+
+#. Key:	164BBC234EFB22254D129CA263B806AC
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+#: /Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+msgctxt ",164BBC234EFB22254D129CA263B806AC"
+msgid "- - - -"
+msgstr "- - - -"
+
+#. Key:	164C8AC146B1E5344B9110ADE1806B97
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PeachAsset.PeachAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PeachAsset.PeachAsset.Description
+msgctxt ",164C8AC146B1E5344B9110ADE1806B97"
+msgid "a nectarina"
+msgstr "the nectarine"
+
+#. Key:	1702F6488945854A02D5DAB9E973E496
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.GreenHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.GreenHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",1702F6488945854A02D5DAB9E973E496"
+msgid "GreenHat"
+msgstr ""
+
+#. Key:	170C058741879A29F7C7AE9190CAA4FD
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SlicePotatoData.SlicePotatoData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SlicePotatoData.SlicePotatoData.Description
+msgctxt ",170C058741879A29F7C7AE9190CAA4FD"
+msgid "Batata"
+msgstr "Potato"
+
+#. Key:	1808E5A743C7EC1A3B4E128BB7361963
+#. SourceLocation:	/Game/LevelsParameters/Customization/ECustomizationCategory.ECustomizationCategory.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Customization/ECustomizationCategory.ECustomizationCategory.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",1808E5A743C7EC1A3B4E128BB7361963"
+msgid "Face"
+msgstr ""
+
+#. Key:	18E94944494CC8029504E49C8CA00839
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.WhiteJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.WhiteJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",18E94944494CC8029504E49C8CA00839"
+msgid "WhiteJacket"
+msgstr ""
+
+#. Key:	1B19D5484E13B91642CD0D8159C4B4D9
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+msgctxt ",1B19D5484E13B91642CD0D8159C4B4D9"
+msgid "Cozinhados/Carne/Peixe"
+msgstr "Cooked/Meat/Fish"
+
+#. Key:	1B8B06B9884E682E396323A2C4157F83
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.KnifeTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.KnifeTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",1B8B06B9884E682E396323A2C4157F83"
+msgid "Este troféu foi desbloqueado ao conseguires 5 estrelas no nível de corte."
+msgstr "This trophy was unlocked by achieving 5 stars in the slice level."
+
+#. Key:	1CA29FDE4D0D2B1DB1707FBB4D502704
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OnionAsset.OnionAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OnionAsset.OnionAsset.TooltipDialogue
+msgctxt ",1CA29FDE4D0D2B1DB1707FBB4D502704"
+msgid "é arrumada na despensa"
+msgstr "is stored in the pantry"
+
+#. Key:	1CCAAB164BFC744548B1EBB68E0CE7E8
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlackHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlackHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",1CCAAB164BFC744548B1EBB68E0CE7E8"
+msgid "BlackHat"
+msgstr ""
+
+#. Key:	1D2E1DC1C047E9B9F659DBB03245B569
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_29.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_29.Text
+msgctxt ",1D2E1DC1C047E9B9F659DBB03245B569"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#. Key:	1DA0CDBE8A442A4B7B0BFCB958BDC2B5
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",1DA0CDBE8A442A4B7B0BFCB958BDC2B5"
+msgid "Frigorífico"
+msgstr "Fridge"
+
+#. Key:	1E0CF2F04BD27079A7C29EA4BD50DC1E
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:WidgetTree.AddedQuantityText.Text
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:WidgetTree.AddedQuantityText.Text
+msgctxt ",1E0CF2F04BD27079A7C29EA4BD50DC1E"
+msgid "Placeholder:"
+msgstr ""
+
+#. Key:	2046FC134DEE9210509E9B835442B6A9
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/RawSteakAsset.RawSteakAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/RawSteakAsset.RawSteakAsset.StoringZones(0).StoringZones
+msgctxt ",2046FC134DEE9210509E9B835442B6A9"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	205EA74F06422707B8EAEE8E71BE0B67
+#. SourceLocation:	/Game/Movies/HUD.HUD_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/Movies/HUD.HUD_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",205EA74F06422707B8EAEE8E71BE0B67"
+msgid "X"
+msgstr "X"
+
+#. Key:	206378127044E3A103AB8EBF242011A4
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",206378127044E3A103AB8EBF242011A4"
+msgid "Despensa ou Frigorífico"
+msgstr "Pantry or Freezer"
+
+#. Key:	20FAFB2E4BC9B7A855008CB2707965AE
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BellPepperAsset.BellPepperAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BellPepperAsset.BellPepperAsset.StoringZones(0).StoringZones
+msgctxt ",20FAFB2E4BC9B7A855008CB2707965AE"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	21E4CE18457C61E3D73B98AB42B4C7E8
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",21E4CE18457C61E3D73B98AB42B4C7E8"
+msgid "Continuar"
+msgstr "Continue"
+
+#. Key:	23DB0080484CD17A544F98B04485AB50
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PurpleJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PurpleJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",23DB0080484CD17A544F98B04485AB50"
+msgid "PurpleJacket"
+msgstr ""
+
+#. Key:	23F92E8D874D2EB620AF7899770EA53A
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",23F92E8D874D2EB620AF7899770EA53A"
+msgid "Despensa ou Frigorífico ou Congelador"
+msgstr "Pantry or Fridge or Freezer"
+
+#. Key:	2537AA9BD24C1DE363003E85E3DB1C4B
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+msgctxt ",2537AA9BD24C1DE363003E85E3DB1C4B"
+msgid "Boa arrumação!"
+msgstr "Stored correctly, well done!"
+
+#. Key:	2571DA4CBA42EEAAB0468DB64D844896
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:SetFeedbackText [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:SetFeedbackText [Script Bytecode]
+msgctxt ",2571DA4CBA42EEAAB0468DB64D844896"
+msgid "Acredito que vais estar melhor para a próxima!"
+msgstr "I believe you'll do better next time!"
+
+#. Key:	25724F7A1E4330DCFADEBFADFB1C026F
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",25724F7A1E4330DCFADEBFADFB1C026F"
+msgid "Despensa"
+msgstr "Pantry"
+
+#. Key:	2576220F534489FA6B053C93790780E7
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:SetFeedbackText [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:SetFeedbackText [Script Bytecode]
+msgctxt ",2576220F534489FA6B053C93790780E7"
+msgid "Excelent trabalho!"
+msgstr "Excellent work!"
+
+#. Key:	27DB2CC1430B41FED53902BE4C2D5E1C
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceGarlicData.SliceGarlicData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceGarlicData.SliceGarlicData.Description
+msgctxt ",27DB2CC1430B41FED53902BE4C2D5E1C"
+msgid "Alho"
+msgstr "Garlic"
+
+#. Key:	28FD6573AF436CC3421F9BB324C59583
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_7.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_7.Text
+msgctxt ",28FD6573AF436CC3421F9BB324C59583"
+msgid "Agradecimentos a todos os que \nde qualquer maneira ou forma \ninfluenciaram elementos do jogo! :D"
+msgstr "Many thanks to everyone that in some way influenced elemts in the game! :D"
+
+#. Key:	29B115BF4B4D900ED3B786B93FBF447B
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceOnionData.SliceOnionData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceOnionData.SliceOnionData.Description
+msgctxt ",29B115BF4B4D900ED3B786B93FBF447B"
+msgid "Cebola"
+msgstr "Onion"
+
+#. Key:	2B5F46EE49DEF810A839BC83ADC30530
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookedSteakAsset.CookedSteakAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookedSteakAsset.CookedSteakAsset.StoringZones(0).StoringZones
+msgctxt ",2B5F46EE49DEF810A839BC83ADC30530"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	2DC41ACB48B0BFCF8F50B3AC256C9D9F
+#. SourceLocation:	/Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:Get_Counter_Text [Script Bytecode]
+#: /Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:Get_Counter_Text [Script Bytecode]
+msgctxt ",2DC41ACB48B0BFCF8F50B3AC256C9D9F"
+msgid "Alimentos cortados: {Cut} / {tobeCut} "
+msgstr "Sliced food: {Cut} / {tobeCut}"
+
+#. Key:	2E6BF2874A20B828D6CA4C8BEB79B0FE
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CannedSardinesAsset.CannedSardinesAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CannedSardinesAsset.CannedSardinesAsset.TooltipDialogue
+msgctxt ",2E6BF2874A20B828D6CA4C8BEB79B0FE"
+msgid "é arrumada no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	2F04A9F11241BA754608D5BCFFEDD40E
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlackJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlackJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",2F04A9F11241BA754608D5BCFFEDD40E"
+msgid "BlackJacket"
+msgstr ""
+
+#. Key:	2FD76B4F453EDD71E86E949787E671F6
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CakeAsset.CakeAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CakeAsset.CakeAsset.StoringZones(0).StoringZones
+msgctxt ",2FD76B4F453EDD71E86E949787E671F6"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	308738CF6545CB457F0E218C7EACFAB2
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+msgctxt ",308738CF6545CB457F0E218C7EACFAB2"
+msgid "Má escolha, tem atenção à cor\r\n da comida"
+msgstr "Bad choice, pay atention to the food color"
+
+#. Key:	31FD80B04882DD10E773DF8F2DC1FF76
+#. SourceLocation:	/Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.ResumeButton.TextToDisplay
+#: /Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.ResumeButton.TextToDisplay
+msgctxt ",31FD80B04882DD10E773DF8F2DC1FF76"
+msgid "Resumir"
+msgstr "Resume"
+
+#. Key:	320E7E6D4ED8D5116DD0329881A01A93
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:Get_ExpiryDate1_Text [Script Bytecode]
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:Get_ExpiryDate1_Text [Script Bytecode]
+msgctxt ",320E7E6D4ED8D5116DD0329881A01A93"
+msgid "Validade: {expiry} dias"
+msgstr "Expiry: {expiry} dias"
+
+#. Key:	328ED54046DB760D8C4BED85EB1B7BE4
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceButterData.SliceButterData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceButterData.SliceButterData.Description
+msgctxt ",328ED54046DB760D8C4BED85EB1B7BE4"
+msgid "Manteiga"
+msgstr "Butter"
+
+#. Key:	32C71D1B1F4733841B5657940C25FC5E
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.RedHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.RedHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",32C71D1B1F4733841B5657940C25FC5E"
+msgid "RedHat"
+msgstr ""
+
+#. Key:	32D49ACEB94761F560F1988EF9DA1CD4
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.Feedback.Text
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.Feedback.Text
+msgctxt ",32D49ACEB94761F560F1988EF9DA1CD4"
+msgid "Feedback geral"
+msgstr "General Feedback"
+
+#. Key:	3391FA786C446EE9EFA75B8551C93710
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+msgctxt ",3391FA786C446EE9EFA75B8551C93710"
+msgid "{feedback} ({Eval} estrelas)"
+msgstr "{feedback} ({Eval} stars)"
+
+#. Key:	347639274B3816A88F24AE9AE6F7C47B
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TomatoAsset.TomatoAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TomatoAsset.TomatoAsset.TooltipDialogue
+msgctxt ",347639274B3816A88F24AE9AE6F7C47B"
+msgid "é arrumado no frigorífico, congelador ou despensa"
+msgstr "is stored in the fridge, freezer, or pantry"
+
+#. Key:	34AD9B36724EA2E149D6AC84DEDC3089
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.HatTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.HatTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",34AD9B36724EA2E149D6AC84DEDC3089"
+msgid "Este troféu foi desbloqueado ao concluíres o dia 1."
+msgstr "This trophy was unlocked by completing day 1."
+
+#. Key:	34D4003A4D820FE8D1C0C696336494E1
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaBranchAsset.BananaBranchAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaBranchAsset.BananaBranchAsset.Description
+msgctxt ",34D4003A4D820FE8D1C0C696336494E1"
+msgid "as bananas"
+msgstr "the bananas"
+
+#. Key:	3550FB724224D56D38DE91AEB78EC294
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_2.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_2.Text
+msgctxt ",3550FB724224D56D38DE91AEB78EC294"
+msgid "Nome da receita"
+msgstr "Recipe Name"
+
+#. Key:	360D902249F43375AE5F23B1C91B51D7
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+#: /Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+msgctxt ",360D902249F43375AE5F23B1C91B51D7"
+msgid "- -"
+msgstr "- -"
+
+#. Key:	37CD8500F04E823CA8C099984E77CD34
+#. SourceLocation:	/Game/UIElements/WBP_CleaningPlates.WBP_CleaningPlates_C:WidgetTree.ChangeLevel.TextToDisplay
+#: /Game/UIElements/WBP_CleaningPlates.WBP_CleaningPlates_C:WidgetTree.ChangeLevel.TextToDisplay
+msgctxt ",37CD8500F04E823CA8C099984E77CD34"
+msgid "Sim"
+msgstr "Yes"
+
+#. Key:	38ACBDEC42FEAD6C053B0C8BE8D76A90
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/ELocationCategory.ELocationCategory.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Storing/Structures/ELocationCategory.ELocationCategory.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",38ACBDEC42FEAD6C053B0C8BE8D76A90"
+msgid "Pantry"
+msgstr "Pantry"
+
+#. Key:	38C011864600B273DF007A88544ED120
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_8.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_8.Text
+msgctxt ",38C011864600B273DF007A88544ED120"
+msgid "Prazo de validade"
+msgstr "Expiry period"
+
+#. Key:	39C76C8DDA44A232C14799B60184B1EB
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:FoodStoredCount [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:FoodStoredCount [Script Bytecode]
+msgctxt ",39C76C8DDA44A232C14799B60184B1EB"
+msgid "+ 1"
+msgstr "+ 1"
+
+#. Key:	39D45D65459C7944F71589AE450BFC04
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/MilkAsset.MilkAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/MilkAsset.MilkAsset.Description
+msgctxt ",39D45D65459C7944F71589AE450BFC04"
+msgid "o leite"
+msgstr "the milk"
+
+#. Key:	3EA432B26F4BB60EDB3DCA846688502B
+#. SourceLocation:	/Game/LevelsParameters/Cooking/BP_SelectCookTool.BP_SelectCookTool_C:SetSlicingDialogue [Script Bytecode]
+#: /Game/LevelsParameters/Cooking/BP_SelectCookTool.BP_SelectCookTool_C:SetSlicingDialogue [Script Bytecode]
+msgctxt ",3EA432B26F4BB60EDB3DCA846688502B"
+msgid "{left}comida\n{right}"
+msgstr "{left}food\n{right}"
+
+#. Key:	3F5EC7E947FCFDA43FE4B09B6FB47E16
+#. SourceLocation:	/Game/UIElements/WBP_ChangeLevel.WBP_ChangeLevel_C:WidgetTree.ChangeLevel.TextToDisplay
+#: /Game/UIElements/WBP_ChangeLevel.WBP_ChangeLevel_C:WidgetTree.ChangeLevel.TextToDisplay
+msgctxt ",3F5EC7E947FCFDA43FE4B09B6FB47E16"
+msgid "Sim"
+msgstr "Yes"
+
+#. Key:	40A303614C4E19EF9AFC5BB9251F7CDF
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TunaAsset.TunaAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TunaAsset.TunaAsset.TooltipDialogue
+msgctxt ",40A303614C4E19EF9AFC5BB9251F7CDF"
+msgid "é arrumado no frigorífico ou congelador"
+msgstr "is stored in the fridge or freezer"
+
+#. Key:	40D3927F7B4C0DA2901E2EB1A7D2ED02
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:StoringMessage [Script Bytecode]
+msgctxt ",40D3927F7B4C0DA2901E2EB1A7D2ED02"
+msgid "Má arrumação"
+msgstr "Stored incorrectly, keep improving!"
+
+#. Key:	430877BB41252B579BF1ED99C79CF659
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+msgctxt ",430877BB41252B579BF1ED99C79CF659"
+msgid "5 Estrelas e Bonus: + {xp} experiência"
+msgstr "5 Stars and Bonus: + {xp} experience"
+
+#. Key:	434A83D4BF4CE51777498EB02D7D6255
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_2.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_2.Text
+msgctxt ",434A83D4BF4CE51777498EB02D7D6255"
+msgid "Desenvolvedor"
+msgstr "Developer"
+
+#. Key:	43E8E915407B86A585B87D81DC53DD9C
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/RawSteakAsset.RawSteakAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/RawSteakAsset.RawSteakAsset.TooltipDialogue
+msgctxt ",43E8E915407B86A585B87D81DC53DD9C"
+msgid "é arrumada no frigorífico ou congelador"
+msgstr "is stored in the fridge or freezer"
+
+#. Key:	447E9D5C0A43C93FDFB9C49572E55EDF
+#. SourceLocation:	/Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.PlayButton2.TextToDisplay
+#: /Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.PlayButton2.TextToDisplay
+msgctxt ",447E9D5C0A43C93FDFB9C49572E55EDF"
+msgid "Jogar"
+msgstr "Play"
+
+#. Key:	4493A6AD4DE9B4CDF7795F8CBD791388
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.OrangeJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.OrangeJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",4493A6AD4DE9B4CDF7795F8CBD791388"
+msgid "OrangeJacket"
+msgstr ""
+
+#. Key:	4558BEF5534E46641A089BB7BE22DFF0
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:SetXpText [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:SetXpText [Script Bytecode]
+msgctxt ",4558BEF5534E46641A089BB7BE22DFF0"
+msgid "+ 10 experiência"
+msgstr "+ 10 experience"
+
+#. Key:	4625DAF828457932F8C1CF82EBE9C237
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_11.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_11.Text
+msgctxt ",4625DAF828457932F8C1CF82EBE9C237"
+msgid "Francisco Vasconcelos"
+msgstr "Francisco Vasconcelos"
+
+#. Key:	47501B6247D50834100C91AC1B7FA3B5
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread2Asset.Bread2Asset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread2Asset.Bread2Asset.Description
+msgctxt ",47501B6247D50834100C91AC1B7FA3B5"
+msgid "o pão"
+msgstr "the bread"
+
+#. Key:	48796F9D19445EF258DB879128208B50
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_40.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_40.Text
+msgctxt ",48796F9D19445EF258DB879128208B50"
+msgid "Animações"
+msgstr "Animations"
+
+#. Key:	49DEFD204F54F4C9ABCF54BF7963793E
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OnionAsset.OnionAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OnionAsset.OnionAsset.Description
+msgctxt ",49DEFD204F54F4C9ABCF54BF7963793E"
+msgid "a cebola"
+msgstr "the onion"
+
+#. Key:	4A8A6979C348D13A78A1B8953B5CF85A
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+msgctxt ",4A8A6979C348D13A78A1B8953B5CF85A"
+msgid "5 Estrelas: + 60 experiência"
+msgstr "5 Stars: + 60 experience"
+
+#. Key:	4A9EEC82274A407729808D9ADCAE3EC7
+#. SourceLocation:	/Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:ExecuteUbergraph_WBP_CleanedComposting [Script Bytecode]
+#: /Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:ExecuteUbergraph_WBP_CleanedComposting [Script Bytecode]
+msgctxt ",4A9EEC82274A407729808D9ADCAE3EC7"
+msgid "Boa limpaste o combustor\ne usaste como adubo no jardim!"
+msgstr "Good you cleaned the combustor\nand used it as fertilizer in the garden!"
+
+#. Key:	4C33E3660941A70E82FDA78370714BAD
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",4C33E3660941A70E82FDA78370714BAD"
+msgid "Frigorífico ou Congelador"
+msgstr "Fridge or Freezer"
+
+#. Key:	4C3902A34B608D1CD57EF0B679FCE06A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CutTunaAsset.CutTunaAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CutTunaAsset.CutTunaAsset.TooltipDialogue
+msgctxt ",4C3902A34B608D1CD57EF0B679FCE06A"
+msgid "é arrumada no frigorífico ou congelador"
+msgstr "is stored in the fridge or freezer"
+
+#. Key:	4CE39668456C7F0FD1EA82A50D908BF8
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/RawSteakAsset.RawSteakAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/RawSteakAsset.RawSteakAsset.Description
+msgctxt ",4CE39668456C7F0FD1EA82A50D908BF8"
+msgid "a carne crua"
+msgstr "the raw meat"
+
+#. Key:	4D1CE6C447755600303E0CA4778AA361
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlueJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlueJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",4D1CE6C447755600303E0CA4778AA361"
+msgid "BlueJacket"
+msgstr ""
+
+#. Key:	4E0ED8C64DD812AF0A8AE49220923A44
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SlicePeachData.SlicePeachData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SlicePeachData.SlicePeachData.Description
+msgctxt ",4E0ED8C64DD812AF0A8AE49220923A44"
+msgid "Nectarina"
+msgstr "Nectarine"
+
+#. Key:	506396D7B2439770B1F305A062B493C8
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_39.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_39.Text
+msgctxt ",506396D7B2439770B1F305A062B493C8"
+msgid "Criado com o Unreal Engine 5. \nModelos 3D criados no Unreal Engine, Maya e Blender.\nModelos 3D da comida by Mumifier Studio."
+msgstr "Built with Unreal Engine 5\n3D Models created with Unreal Engine, Maya and Blender.\nFood 3D Models by Mumifier Studio."
+
+#. Key:	50D521D34BCE33DE4B5C09B85AD18103
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalamiAsset.SalamiAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalamiAsset.SalamiAsset.TooltipDialogue
+msgctxt ",50D521D34BCE33DE4B5C09B85AD18103"
+msgid "é arrumado no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	51B5EA20104C05E623920CA56108B6D4
+#. SourceLocation:	/Game/TopDown/Maps/SliceLevel.SliceLevel:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/SliceLevel.SliceLevel:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+msgctxt ",51B5EA20104C05E623920CA56108B6D4"
+msgid "Instruções"
+msgstr "Instructions"
+
+#. Key:	5268A5F5E74D0BC43C26DE9EA5302409
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",5268A5F5E74D0BC43C26DE9EA5302409"
+msgid "X"
+msgstr "X"
+
+#. Key:	54E024E547845F966F8F66BF99DAC07D
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TunaAsset.TunaAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/TunaAsset.TunaAsset.Description
+msgctxt ",54E024E547845F966F8F66BF99DAC07D"
+msgid "o atum"
+msgstr "the tuna"
+
+#. Key:	55C285AE634122FF5AF1C08960B83229
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/Slicing_Manager.Slicing_Manager_C:SpawnLevelFood  [Script Bytecode]
+#: /Game/LevelsParameters/SlicingTesting/Structures/Slicing_Manager.Slicing_Manager_C:SpawnLevelFood  [Script Bytecode]
+msgctxt ",55C285AE634122FF5AF1C08960B83229"
+msgid "{left}comida\n{right}"
+msgstr "{left}food\n{right}"
+
+#. Key:	563C8EED4DF0225552401690C25058D8
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceOrangeData.SliceOrangeData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceOrangeData.SliceOrangeData.Description
+msgctxt ",563C8EED4DF0225552401690C25058D8"
+msgid "Laranja"
+msgstr "Orange"
+
+#. Key:	56B95D04AF43D3BBAB48D68387147B2C
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Get_LeftTextBlock_Text [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Get_LeftTextBlock_Text [Script Bytecode]
+msgctxt ",56B95D04AF43D3BBAB48D68387147B2C"
+msgid "{feedback} ({Eval} estrelas)"
+msgstr "{feedback} ({Eval} stars)"
+
+#. Key:	5891807BCE467FD8FC6FC29325EAA611
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_16.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_16.Text
+msgctxt ",5891807BCE467FD8FC6FC29325EAA611"
+msgid "Constança Freitas"
+msgstr "Constança Freitas"
+
+#. Key:	59C199F5CA42C107E29F379A9B373850
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/BP_SelectSliceFood.BP_SelectSliceFood_C:Spawn Proc Food [Script Bytecode]
+#: /Game/LevelsParameters/SlicingTesting/BP_SelectSliceFood.BP_SelectSliceFood_C:Spawn Proc Food [Script Bytecode]
+msgctxt ",59C199F5CA42C107E29F379A9B373850"
+msgid "{left}\n({right} "
+msgstr "{left}\n({right} "
+
+#. Key:	5A3499FF45CFB056D33A08ABF4A9E2AC
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.OrangeHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.OrangeHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",5A3499FF45CFB056D33A08ABF4A9E2AC"
+msgid "OrangeHat"
+msgstr ""
+
+#. Key:	5BAE585BCF493354852368B98507F9F1
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_5.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_5.Text
+msgctxt ",5BAE585BCF493354852368B98507F9F1"
+msgid "Sandra Olim"
+msgstr "Sandra Olim"
+
+#. Key:	5C683D1540E8994C6E9DA9B8E92155E3
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+#: /Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+msgctxt ",5C683D1540E8994C6E9DA9B8E92155E3"
+msgid "- - -"
+msgstr "- - -"
+
+#. Key:	5DADF9B447E41F363BAA89B34FCBF83D
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.RedJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.RedJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",5DADF9B447E41F363BAA89B34FCBF83D"
+msgid "RedJacket"
+msgstr ""
+
+#. Key:	5F08C58C4FB8830369F76281F9C66F01
+#. SourceLocation:	/Game/UIElements/WBP_XPBar.WBP_XPBar_C:WidgetTree.TextBlock_169.Text
+#: /Game/UIElements/WBP_XPBar.WBP_XPBar_C:WidgetTree.TextBlock_169.Text
+msgctxt ",5F08C58C4FB8830369F76281F9C66F01"
+msgid " / "
+msgstr ""
+
+#. Key:	60CA303C9C44DF32C07167BBDDF158E7
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",60CA303C9C44DF32C07167BBDDF158E7"
+msgid "Despensa ou Congelador"
+msgstr "Pantry or Freezer"
+
+#. Key:	626021AAB641ADA2AE7C93977BD9B2B3
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PinkGlasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PinkGlasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",626021AAB641ADA2AE7C93977BD9B2B3"
+msgid "PinkGlasses"
+msgstr ""
+
+#. Key:	62D61E37424A5BF2D3D979AAFB18757C
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_30.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_30.Text
+msgctxt ",62D61E37424A5BF2D3D979AAFB18757C"
+msgid "Narrativa"
+msgstr "Narrative"
+
+#. Key:	63A50D214440C0E0E60A52B4B31F35F7
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/GarlicAsset.GarlicAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/GarlicAsset.GarlicAsset.StoringZones(0).StoringZones
+msgctxt ",63A50D214440C0E0E60A52B4B31F35F7"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	65F4DD39E1495A67556E4BBC87B98134
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:SetXpText [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:SetXpText [Script Bytecode]
+msgctxt ",65F4DD39E1495A67556E4BBC87B98134"
+msgid "+ 30 experiência"
+msgstr "+ 30 experience"
+
+#. Key:	65FD4634264C4AD823344F8C94F07F1C
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlackGlasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlackGlasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",65FD4634264C4AD823344F8C94F07F1C"
+msgid "BlackGlasses"
+msgstr ""
+
+#. Key:	68D7058249CB0B88D5C4FEBE7FB659DE
+#. SourceLocation:	/Game/LevelsParameters/Cooking/Structures/ECookToolType.ECookToolType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Cooking/Structures/ECookToolType.ECookToolType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",68D7058249CB0B88D5C4FEBE7FB659DE"
+msgid "Pan"
+msgstr ""
+
+#. Key:	6959944744D16AC9F2270787AFB4EDBA
+#. SourceLocation:	/Game/TopDown/Blueprints/BP_DisplayText.Default__BP_DisplayText_C.DisplayText
+#: /Game/TopDown/Blueprints/BP_DisplayText.Default__BP_DisplayText_C.DisplayText
+msgctxt ",6959944744D16AC9F2270787AFB4EDBA"
+msgid "testing"
+msgstr ""
+
+#. Key:	69FE6454FC4D2E494AAE2C90F5BF50F9
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_25.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_25.Text
+msgctxt ",69FE6454FC4D2E494AAE2C90F5BF50F9"
+msgid "Produção de Música"
+msgstr "Music Production"
+
+#. Key:	6BA1F5DA9B4C02D92CD5EC84AE1B0F8F
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.BananaTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.BananaTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",6BA1F5DA9B4C02D92CD5EC84AE1B0F8F"
+msgid "Este troféu foi desbloqueado ao concluíres um dia com 5 estrelas."
+msgstr "This trophy was unlocked by completing a day with 5 stars."
+
+#. Key:	6C091514448D48BA819C7697D35EC2DB
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+msgctxt ",6C091514448D48BA819C7697D35EC2DB"
+msgid "5 Estrelas: + 60 experiência"
+msgstr "5 Stars: + 60 experience"
+
+#. Key:	6C77A83C4BE5D1E6094E71B3800B9992
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookieAsset.CookieAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookieAsset.CookieAsset.StoringZones(0).StoringZones
+msgctxt ",6C77A83C4BE5D1E6094E71B3800B9992"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	6FA90F7D43640DDABBB68FAF5BE79491
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CannedSardinesAsset.CannedSardinesAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CannedSardinesAsset.CannedSardinesAsset.Description
+msgctxt ",6FA90F7D43640DDABBB68FAF5BE79491"
+msgid "a lata de sardinhas"
+msgstr "the sardines can"
+
+#. Key:	6FABA8071D46DAF9B6B722AA9A93B0C8
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_19.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_19.Text
+msgctxt ",6FABA8071D46DAF9B6B722AA9A93B0C8"
+msgid "Ultimate Food Pack by Mumifier Studio"
+msgstr "Ultimate Food Pack by Mumifier Studio"
+
+#. Key:	70C03E74443A26364951E0A64A17DA59
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalmonAsset.SalmonAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalmonAsset.SalmonAsset.Description
+msgctxt ",70C03E74443A26364951E0A64A17DA59"
+msgid "o salmão"
+msgstr "the salmon"
+
+#. Key:	7258FD5E431677362F894AAAF6AFAF33
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SausageAsset.SausageAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SausageAsset.SausageAsset.TooltipDialogue
+msgctxt ",7258FD5E431677362F894AAAF6AFAF33"
+msgid "é arrumado no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	7274E6094ACB5EBB62399E91E4DE436E
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+msgctxt ",7274E6094ACB5EBB62399E91E4DE436E"
+msgid "Cestos"
+msgstr "Baskets"
+
+#. Key:	72AE1CFB42B130C190DD92B5E07E1D48
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ButterAsset.ButterAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ButterAsset.ButterAsset.Description
+msgctxt ",72AE1CFB42B130C190DD92B5E07E1D48"
+msgid "a manteiga"
+msgstr "the butter"
+
+#. Key:	73719DD25C4680EBC85978BB628A67EB
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:WidgetTree.LeftTextBlock.Text
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:WidgetTree.LeftTextBlock.Text
+msgctxt ",73719DD25C4680EBC85978BB628A67EB"
+msgid "Texto com os pontos bons e maus do nível"
+msgstr ""
+
+#. Key:	765E11314DC67C0C08915494E97D8383
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+msgctxt ",765E11314DC67C0C08915494E97D8383"
+msgid "Peixe/Marisco"
+msgstr "Fish/Seafood"
+
+#. Key:	76C2AE80C2435A94C92E9982C5781A69
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.StoringBoxTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.StoringBoxTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",76C2AE80C2435A94C92E9982C5781A69"
+msgid "Este troféu foi desbloqueado ao conseguires 5 estrelas no nível de arrumações."
+msgstr "This trophy was unlocked by achieving 5 stars in the storing level."
+
+#. Key:	76CA15794D5514A48FF7CD8D74A8F4BE
+#. SourceLocation:	/Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.BackKitchenButton.TextToDisplay
+#: /Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.BackKitchenButton.TextToDisplay
+msgctxt ",76CA15794D5514A48FF7CD8D74A8F4BE"
+msgid "Voltar à cozinha"
+msgstr "Return to kitchen"
+
+#. Key:	77790CB6EF44AC09E90150B28F2A52DC
+#. SourceLocation:	/Game/UIElements/WBP_IntroVideo.WBP_IntroVideo_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_IntroVideo.WBP_IntroVideo_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",77790CB6EF44AC09E90150B28F2A52DC"
+msgid "X"
+msgstr "X"
+
+#. Key:	77BD51994F1B5F9AF32AF79DED9B1AE2
+#. SourceLocation:	/Game/UIElements/MainMenuButtons.Default__MainMenuButtons_C.TextToDisplay
+#: /Game/UIElements/MainMenuButtons.Default__MainMenuButtons_C.TextToDisplay
+msgctxt ",77BD51994F1B5F9AF32AF79DED9B1AE2"
+msgid "Text"
+msgstr "Text"
+
+#. Key:	785A996145DFBEA47F86009C8134B3A6
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+msgctxt ",785A996145DFBEA47F86009C8134B3A6"
+msgid "Má escolha, tem atenção à cor\r\n da comida"
+msgstr "Bad choice, pay attention to the food color"
+
+#. Key:	799495A73D4DF5F86662799C9199BD4A
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+msgctxt ",799495A73D4DF5F86662799C9199BD4A"
+msgid "Seleção Receita"
+msgstr "Recipe Selection"
+
+#. Key:	7A1E598A4DDCFB0E1611D3AFE2C4D574
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.PromptText_2.Text
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.PromptText_2.Text
+msgctxt ",7A1E598A4DDCFB0E1611D3AFE2C4D574"
+msgid "Placeholder:"
+msgstr ""
+
+#. Key:	7A34691547CB136AA01D199E7DAFCEEC
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CakeAsset.CakeAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CakeAsset.CakeAsset.Description
+msgctxt ",7A34691547CB136AA01D199E7DAFCEEC"
+msgid "o bolo"
+msgstr "the cake"
+
+#. Key:	7C82A922456E643A76BA388092225193
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SausageAsset.SausageAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SausageAsset.SausageAsset.Description
+msgctxt ",7C82A922456E643A76BA388092225193"
+msgid "o enchido"
+msgstr "the sausage"
+
+#. Key:	7DF75D9B4949B0949F2F0C9F232AB5D8
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.GreenJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.GreenJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",7DF75D9B4949B0949F2F0C9F232AB5D8"
+msgid "GreenJacket"
+msgstr ""
+
+#. Key:	7FA782FF4FC1A0248CA94BB253769E0D
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:WidgetTree.ExperienceText.Text
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:WidgetTree.ExperienceText.Text
+msgctxt ",7FA782FF4FC1A0248CA94BB253769E0D"
+msgid "+ 60 xp"
+msgstr "Do you want to enter this zone?"
+
+#. Key:	80C02A703A489FB2229E95A39A75DA70
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_44.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_44.Text
+msgctxt ",80C02A703A489FB2229E95A39A75DA70"
+msgid "Ana Santos"
+msgstr "Ana Santos"
+
+#. Key:	81C9BEEB472F53031E5B878869599C00
+#. SourceLocation:	/Game/UIElements/SlicingUI/WBP_Timer.WBP_Timer_C:WidgetTree.Timer.Text
+#: /Game/UIElements/SlicingUI/WBP_Timer.WBP_Timer_C:WidgetTree.Timer.Text
+msgctxt ",81C9BEEB472F53031E5B878869599C00"
+msgid "Seconds"
+msgstr "Seconds"
+
+#. Key:	82413F42E149F6ADC3027E8652F58184
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.AppleTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.AppleTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",82413F42E149F6ADC3027E8652F58184"
+msgid "Este troféu foi desbloqueado ao concluíres o dia 4."
+msgstr "This trophy was unlocked by completing day 4."
+
+#. Key:	8260D3FE004D956E2DD5B4B21801E063
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeStoringTitle [Script Bytecode]
+msgctxt ",8260D3FE004D956E2DD5B4B21801E063"
+msgid "Congelador"
+msgstr "Freezer"
+
+#. Key:	8323B5BA488A9C51E8B4E4BBD9FF3EC2
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread2Asset.Bread2Asset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread2Asset.Bread2Asset.TooltipDialogue
+msgctxt ",8323B5BA488A9C51E8B4E4BBD9FF3EC2"
+msgid "é arrumado na despensa ou congelador"
+msgstr "is stored in the pantry or freezer"
+
+#. Key:	843D39BCFF4718D0883B00871EF29C53
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Get_Day_Text [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Get_Day_Text [Script Bytecode]
+msgctxt ",843D39BCFF4718D0883B00871EF29C53"
+msgid "Dia {day} concluído!"
+msgstr "Day {dia} completed!"
+
+#. Key:	84564DCA32462FDE2D06DF8A126C150C
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_FloatyAdvice.BP_FloatyAdvice_C:Curiosities_GEN_VARIABLE.Text
+#: /Game/LevelsParameters/Storing/BP_FloatyAdvice.BP_FloatyAdvice_C:Curiosities_GEN_VARIABLE.Text
+msgctxt ",84564DCA32462FDE2D06DF8A126C150C"
+msgid "Curiosidades"
+msgstr "Curiosities"
+
+#. Key:	84D678704A9F965BBBB8CDA614C62831
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OrangeAsset.OrangeAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OrangeAsset.OrangeAsset.Description
+msgctxt ",84D678704A9F965BBBB8CDA614C62831"
+msgid "a laranja"
+msgstr "the orange"
+
+#. Key:	85708B9D403BEE5988F07DA1A8CBF0B8
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/BP_SelectAreaSlicing.BP_SelectAreaSlicing_C:TextRender_GEN_VARIABLE.Text
+#: /Game/LevelsParameters/SlicingTesting/BP_SelectAreaSlicing.BP_SelectAreaSlicing_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",85708B9D403BEE5988F07DA1A8CBF0B8"
+msgid "Confirmar Seleção"
+msgstr "Confirm Selection"
+
+#. Key:	86FB9D2D4D633E810124F2AC4E789561
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ChickenAsset.ChickenAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ChickenAsset.ChickenAsset.Description
+msgctxt ",86FB9D2D4D633E810124F2AC4E789561"
+msgid "o frango cru"
+msgstr "the raw chicken"
+
+#. Key:	8749F24541BF5F18EA8B27B2D75513B6
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalmonAsset.SalmonAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalmonAsset.SalmonAsset.TooltipDialogue
+msgctxt ",8749F24541BF5F18EA8B27B2D75513B6"
+msgid "é arrumado no frigorífico ou congelador"
+msgstr "is stored in the fridge or freezer"
+
+#. Key:	87710BBF4D93F3E3B5704F80651BCB54
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.LeftTitle.Text
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.LeftTitle.Text
+msgctxt ",87710BBF4D93F3E3B5704F80651BCB54"
+msgid "Despensa"
+msgstr "Pantry"
+
+#. Key:	87A7F7805E46EA6AC8CCBABDF5134488
+#. SourceLocation:	/Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.Portuguese.TextToDisplay
+#: /Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.Portuguese.TextToDisplay
+msgctxt ",87A7F7805E46EA6AC8CCBABDF5134488"
+msgid "Português"
+msgstr "Portuguese"
+
+#. Key:	87D53AA046B814F8866D488CD9F3A5F6
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/AppleAsset.AppleAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/AppleAsset.AppleAsset.Description
+msgctxt ",87D53AA046B814F8866D488CD9F3A5F6"
+msgid "a maçã"
+msgstr "the apple"
+
+#. Key:	88A52E8E414C2926D78FD1A268CE5C4B
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/FoodBowlAsset.FoodBowlAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/FoodBowlAsset.FoodBowlAsset.TooltipDialogue
+msgctxt ",88A52E8E414C2926D78FD1A268CE5C4B"
+msgid "é arrumada no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	88ABC9BFD94A70F9EF8E5D917D84E24F
+#. SourceLocation:	/Game/UIElements/WBP_TrophyDescription.WBP_TrophyDescription_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_TrophyDescription.WBP_TrophyDescription_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",88ABC9BFD94A70F9EF8E5D917D84E24F"
+msgid "X"
+msgstr "X"
+
+#. Key:	8A488F7740BDBDB65762D5BA6A6A4560
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+msgctxt ",8A488F7740BDBDB65762D5BA6A6A4560"
+msgid "Charcutaria/Conservas"
+msgstr "Charcuterie/Preserves"
+
+#. Key:	8A4F514F411461DFAA54CDB30E89080E
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CarrotAsset.CarrotAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CarrotAsset.CarrotAsset.Description
+msgctxt ",8A4F514F411461DFAA54CDB30E89080E"
+msgid "a cenoura"
+msgstr "the carrot"
+
+#. Key:	8AF97494B9423756A1ED989B39BDD342
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_43.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_43.Text
+msgctxt ",8AF97494B9423756A1ED989B39BDD342"
+msgid "Narração"
+msgstr "Narration"
+
+#. Key:	8B7C239607491941B348AEBFDCD82F49
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_10.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_10.Text
+msgctxt ",8B7C239607491941B348AEBFDCD82F49"
+msgid "Orientando"
+msgstr "Student"
+
+#. Key:	8D41DCDC446162FA54D5D7870F8E2703
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BellPepperAsset.BellPepperAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BellPepperAsset.BellPepperAsset.Description
+msgctxt ",8D41DCDC446162FA54D5D7870F8E2703"
+msgid "o pimentão"
+msgstr "Bell pepper"
+
+#. Key:	8FDD63CC4798234A15AD0CBDD4E4B3B7
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OpenJuiceAsset.OpenJuiceAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OpenJuiceAsset.OpenJuiceAsset.Description
+msgctxt ",8FDD63CC4798234A15AD0CBDD4E4B3B7"
+msgid "o copo de sumo"
+msgstr "the cup of juice"
+
+#. Key:	912FDA56AD481653C7F11B80831A9B51
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.CremeJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.CremeJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",912FDA56AD481653C7F11B80831A9B51"
+msgid "CremeJacket"
+msgstr ""
+
+#. Key:	9162491C407E70D7FC67808579DCAB12
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaBranchAsset.BananaBranchAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaBranchAsset.BananaBranchAsset.TooltipDialogue
+msgctxt ",9162491C407E70D7FC67808579DCAB12"
+msgid "são arrumadas na despensa"
+msgstr "is stored in the pantry"
+
+#. Key:	92A27A234F358A352FDB318EA8807D04
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlueHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlueHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",92A27A234F358A352FDB318EA8807D04"
+msgid "BlueHat"
+msgstr ""
+
+#. Key:	92B7F13B443A2B639E10448F809A2E4D
+#. SourceLocation:	/Game/LevelsParameters/Customization/ECustomizationCategory.ECustomizationCategory.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Customization/ECustomizationCategory.ECustomizationCategory.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",92B7F13B443A2B639E10448F809A2E4D"
+msgid "Jacket"
+msgstr ""
+
+#. Key:	936FEA6C4B4DC3BB4FC621863B950953
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_14.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_14.Text
+msgctxt ",936FEA6C4B4DC3BB4FC621863B950953"
+msgid "Co-Orientador"
+msgstr "Co-Supervisor"
+
+#. Key:	93AB82B14201860356FE0ABBD257382A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/GarlicAsset.GarlicAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/GarlicAsset.GarlicAsset.TooltipDialogue
+msgctxt ",93AB82B14201860356FE0ABBD257382A"
+msgid "é arrumado na despensa"
+msgstr "is stored in the pantry"
+
+#. Key:	963802334DDC87FD7892C2B8E1964895
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_7.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_7.Text
+msgctxt ",963802334DDC87FD7892C2B8E1964895"
+msgid "Prazo de validade"
+msgstr "Expiry period"
+
+#. Key:	96B0B7F48D44DC532BAD8387DAA5F9C0
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",96B0B7F48D44DC532BAD8387DAA5F9C0"
+msgid "Congelador"
+msgstr "Freezer"
+
+#. Key:	972F7DE6D64A7E1A1D4387B1F4D5F391
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_17.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_17.Text
+msgctxt ",972F7DE6D64A7E1A1D4387B1F4D5F391"
+msgid "Modelação Extra"
+msgstr "Extra Modeling"
+
+#. Key:	99B23880FA474B477F49F498CD3B8EBF
+#. SourceLocation:	/Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.English.TextToDisplay
+#: /Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.English.TextToDisplay
+msgctxt ",99B23880FA474B477F49F498CD3B8EBF"
+msgid "Inglês"
+msgstr "English"
+
+#. Key:	9A6E9D667248DD674659AB8DEE09677E
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+msgctxt ",9A6E9D667248DD674659AB8DEE09677E"
+msgid "Corte"
+msgstr "Slice"
+
+#. Key:	9A85B77643BC3BD6B2ACE9AA055A3E69
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+msgctxt ",9A85B77643BC3BD6B2ACE9AA055A3E69"
+msgid "Vegetais/Pão"
+msgstr "Vegetables/Bread"
+
+#. Key:	9D5749C7464CF1A1BEE64EA52470147B
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/GarlicAsset.GarlicAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/GarlicAsset.GarlicAsset.Description
+msgctxt ",9D5749C7464CF1A1BEE64EA52470147B"
+msgid "o alho"
+msgstr "the garlic"
+
+#. Key:	9D91EED147197A499734639771A4E94E
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.ExperienceText.Text
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.ExperienceText.Text
+msgctxt ",9D91EED147197A499734639771A4E94E"
+msgid "Queres entrar nesta zona?"
+msgstr "Do you want to enter this zone?"
+
+#. Key:	9E01930D4724D6DA6FD0FF91DD0DD02D
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+msgctxt ",9E01930D4724D6DA6FD0FF91DD0DD02D"
+msgid "Vegetais Frescos"
+msgstr "Fresh Vegetables"
+
+#. Key:	9E501E2845320D8DF7B898B2B107FC84
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CarrotAsset.CarrotAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CarrotAsset.CarrotAsset.StoringZones(0).StoringZones
+msgctxt ",9E501E2845320D8DF7B898B2B107FC84"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	9E62CB1746E28541475B4D922B132553
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ChickenAsset.ChickenAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ChickenAsset.ChickenAsset.TooltipDialogue
+msgctxt ",9E62CB1746E28541475B4D922B132553"
+msgid "é arrumado no frigorífico ou congelador"
+msgstr "is stored in the fridge or freezer"
+
+#. Key:	9EDC0A801D4AE61087A7388417C35DD6
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_4.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_4.Text
+msgctxt ",9EDC0A801D4AE61087A7388417C35DD6"
+msgid "Modeladores"
+msgstr "3D Modelers"
+
+#. Key:	9FCCA5A5A6464CEF31D8C0A8556FC099
+#. SourceLocation:	/Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:WidgetTree.TrophyNameText.Text
+#: /Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:WidgetTree.TrophyNameText.Text
+msgctxt ",9FCCA5A5A6464CEF31D8C0A8556FC099"
+msgid "Boa limpaste o combustor\ne usaste como adubo no jardim!"
+msgstr "Good you cleaned the combustor\nand used it as fertilizer in the garden!"
+
+#. Key:	A03DBAA705442F3C45BC7E8F73B59D82
+#. SourceLocation:	/Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.QuitButton2.TextToDisplay
+#: /Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.QuitButton2.TextToDisplay
+msgctxt ",A03DBAA705442F3C45BC7E8F73B59D82"
+msgid "Sair"
+msgstr "Quit"
+
+#. Key:	A2E12682F44C350B2168E1B9E8B9BDAF
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+msgctxt ",A2E12682F44C350B2168E1B9E8B9BDAF"
+msgid "Arrumação"
+msgstr "Storing"
+
+#. Key:	A3973D3144991E432C60688A002AD5E5
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+msgctxt ",A3973D3144991E432C60688A002AD5E5"
+msgid "Líquidos/Fruta/Vegetais"
+msgstr "Liquids/Fruits/Vegetables"
+
+#. Key:	A46ED01E4A113CDCB57E00A7582BD666
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BellPepperAsset.BellPepperAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BellPepperAsset.BellPepperAsset.TooltipDialogue
+msgctxt ",A46ED01E4A113CDCB57E00A7582BD666"
+msgid "é arrumado no frigorífico, congelador ou despensa"
+msgstr "is stored in the fridge, freezer, or pantry"
+
+#. Key:	A55D6CC44AAD05DB214ED489E17710B3
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CakeAsset.CakeAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CakeAsset.CakeAsset.TooltipDialogue
+msgctxt ",A55D6CC44AAD05DB214ED489E17710B3"
+msgid "é arrumado no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	A5E935EF468FB39FCCD833B874309967
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_StoringArrow.BP_StoringArrow_C:ZoneText_GEN_VARIABLE.Text
+#: /Game/LevelsParameters/Storing/BP_StoringArrow.BP_StoringArrow_C:ZoneText_GEN_VARIABLE.Text
+msgctxt ",A5E935EF468FB39FCCD833B874309967"
+msgid "Temperature"
+msgstr "Temperature"
+
+#. Key:	A6A6AA90435DD3E3BA2D608E24A23742
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OpenJuiceAsset.OpenJuiceAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OpenJuiceAsset.OpenJuiceAsset.TooltipDialogue
+msgctxt ",A6A6AA90435DD3E3BA2D608E24A23742"
+msgid "é arrumado no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	A6D851864A6375A4AFF689BE49798EA8
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+msgctxt ",A6D851864A6375A4AFF689BE49798EA8"
+msgid "Secos"
+msgstr "Dried food"
+
+#. Key:	A6F2F83FF24F0E19A820538C434A6AE3
+#. SourceLocation:	/Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.TextBlock_188.Text
+#: /Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.TextBlock_188.Text
+msgctxt ",A6F2F83FF24F0E19A820538C434A6AE3"
+msgid "Subiste de nível!"
+msgstr "You leveled up!"
+
+#. Key:	A75906F82C48D71AD515BAA819487A49
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlueGlasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.BlueGlasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",A75906F82C48D71AD515BAA819487A49"
+msgid "BlueGlasses"
+msgstr ""
+
+#. Key:	A7F99988FF443A42253E35B723B43A57
+#. SourceLocation:	/Game/UIElements/WBP_TrophyDescription.WBP_TrophyDescription_C:WidgetTree.TrophyNameText.Text
+#: /Game/UIElements/WBP_TrophyDescription.WBP_TrophyDescription_C:WidgetTree.TrophyNameText.Text
+msgctxt ",A7F99988FF443A42253E35B723B43A57"
+msgid "Nome do troféu"
+msgstr "Trophy name"
+
+#. Key:	A89484227C4AF12D10296AA0956E616B
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/BP_Composting.BP_Composting_C:TextRender_GEN_VARIABLE.Text
+#: /Game/LevelsParameters/MainLevel/BP_Composting.BP_Composting_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",A89484227C4AF12D10296AA0956E616B"
+msgid "Compostor"
+msgstr "Combustor"
+
+#. Key:	A93D97C4F5408874332BA6A5A4625E93
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_26.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_26.Text
+msgctxt ",A93D97C4F5408874332BA6A5A4625E93"
+msgid "Efeitos Sonoros"
+msgstr "Sound Effects"
+
+#. Key:	AB8364B43744CE588B853889444A686A
+#. SourceLocation:	/Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.PotatoTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+#: /Game/LevelsParameters/MainLevel/TrophiesDT.TrophiesDT.PotatoTrophy.Description_7_721B2D8361425A5E89239589066D8FF8
+msgctxt ",AB8364B43744CE588B853889444A686A"
+msgid "Este troféu foi desbloqueado ao concluíres o dia 5."
+msgstr "This trophy was unlocked by completing day 5."
+
+#. Key:	ADC939EE4B73E23CBDF074ABAB72F22C
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+msgctxt ",ADC939EE4B73E23CBDF074ABAB72F22C"
+msgid "Bonus: + {xp} experiência"
+msgstr "Bonus: + {xp} experience"
+
+#. Key:	AEF79E93A74FECEEC68CDAAE609CEE80
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_20.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_20.Text
+msgctxt ",AEF79E93A74FECEEC68CDAAE609CEE80"
+msgid "UX Designer"
+msgstr "UX Designer"
+
+#. Key:	AF1B4455414A68BCB06C7187B9883668
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread1Asset.Bread1Asset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread1Asset.Bread1Asset.TooltipDialogue
+msgctxt ",AF1B4455414A68BCB06C7187B9883668"
+msgid "é arrumado na despensa ou congelador"
+msgstr "is stored in the pantry or freezer"
+
+#. Key:	AFA7F98E4508D89D89F272A41EBDBE8A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PeachAsset.PeachAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PeachAsset.PeachAsset.TooltipDialogue
+msgctxt ",AFA7F98E4508D89D89F272A41EBDBE8A"
+msgid "é arrumada no frigorífico, congelador ou despensa"
+msgstr "is stored in the fridge, freezer, or pantry"
+
+#. Key:	B00B26EE0443E1CF2847B886F86A2C8B
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceSalmonData.SliceSalmonData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceSalmonData.SliceSalmonData.Description
+msgctxt ",B00B26EE0443E1CF2847B886F86A2C8B"
+msgid "Salmão"
+msgstr "Salmon"
+
+#. Key:	B10302214B4C8D0FEC536CABF6A03543
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PotatoAsset.PotatoAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PotatoAsset.PotatoAsset.Description
+msgctxt ",B10302214B4C8D0FEC536CABF6A03543"
+msgid "a batata"
+msgstr "the potato"
+
+#. Key:	B1245BB2EE42419F18818DB2D01AF675
+#. SourceLocation:	/Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.LanguageButton.TextToDisplay
+#: /Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.LanguageButton.TextToDisplay
+msgctxt ",B1245BB2EE42419F18818DB2D01AF675"
+msgid "Idioma"
+msgstr "Language"
+
+#. Key:	B12FC89041449B6AA8655EBAB76D3D7A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalamiAsset.SalamiAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalamiAsset.SalamiAsset.Description
+msgctxt ",B12FC89041449B6AA8655EBAB76D3D7A"
+msgid "o salame"
+msgstr "the salami"
+
+#. Key:	B1753660FD42EBDDB1982EB1AF2C3A83
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:WidgetTree.DayText.Text
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:WidgetTree.DayText.Text
+msgctxt ",B1753660FD42EBDDB1982EB1AF2C3A83"
+msgid "Despensa"
+msgstr "Pantry"
+
+#. Key:	B1A7B2644EFD88E57262A49B41278754
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:FoodStoredCount [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:FoodStoredCount [Script Bytecode]
+msgctxt ",B1A7B2644EFD88E57262A49B41278754"
+msgid "+ 1"
+msgstr "+ 1"
+
+#. Key:	B35664BB431CB84AE96ABAA2641E74DA
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.LeftTextBlock.Text
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.LeftTextBlock.Text
+msgctxt ",B35664BB431CB84AE96ABAA2641E74DA"
+msgid "Texto com os pontos bons e maus do nível"
+msgstr ""
+
+#. Key:	B379CBE54043F1E9E017B59C22C66D48
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.TextBlock_2.Text
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:WidgetTree.TextBlock_2.Text
+msgctxt ",B379CBE54043F1E9E017B59C22C66D48"
+msgid "Bonus xp: "
+msgstr "Bonus XP:"
+
+#. Key:	B45DA325480890DD4CFB4196B2B413C9
+#. SourceLocation:	/Game/UIElements/WBP_ChangeLevel.WBP_ChangeLevel_C:WidgetTree.StayinLevel.TextToDisplay
+#: /Game/UIElements/WBP_ChangeLevel.WBP_ChangeLevel_C:WidgetTree.StayinLevel.TextToDisplay
+msgctxt ",B45DA325480890DD4CFB4196B2B413C9"
+msgid "Não"
+msgstr "No"
+
+#. Key:	B47D40D049A413D265F9DDAB5B132FBE
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceTomatoData.SliceTomatoData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceTomatoData.SliceTomatoData.Description
+msgctxt ",B47D40D049A413D265F9DDAB5B132FBE"
+msgid "Tomate"
+msgstr "Tomato"
+
+#. Key:	B53663504709B0ABF29B84BEA443677F
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/MilkAsset.MilkAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/MilkAsset.MilkAsset.TooltipDialogue
+msgctxt ",B53663504709B0ABF29B84BEA443677F"
+msgid "é arrumado na despensa ou frigorífico"
+msgstr "is stored in the pantry or fridge"
+
+#. Key:	B642D0B6465777BA249A28AB62D4CC75
+#. SourceLocation:	/Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.FoodCounter.Text
+#: /Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.FoodCounter.Text
+msgctxt ",B642D0B6465777BA249A28AB62D4CC75"
+msgid "Placeholder:"
+msgstr ""
+
+#. Key:	B6F5D0DC35408BFA4DE18D95FCB009AD
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_6.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_6.Text
+msgctxt ",B6F5D0DC35408BFA4DE18D95FCB009AD"
+msgid "Em Parceria com o Banco Alimentar da Madeira"
+msgstr "In partnership with Banco Alimentar da Madeira"
+
+#. Key:	BABC85C93742421CA02A8C96645C337B
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:ExecuteUbergraph_WBP_DayCompleted [Script Bytecode]
+msgctxt ",BABC85C93742421CA02A8C96645C337B"
+msgid "{feedback} ({Eval} estrelas)"
+msgstr "{feedback} ({Eval} stars)"
+
+#. Key:	BB2F982F4D2B340977536EA871E89103
+#. SourceLocation:	/Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.BackMainMenuButton.TextToDisplay
+#: /Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.BackMainMenuButton.TextToDisplay
+msgctxt ",BB2F982F4D2B340977536EA871E89103"
+msgid "Menu principal"
+msgstr "Main menu"
+
+#. Key:	BBDD521D43DDF4D30CF59DA629853E0B
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:SetFeedbackText [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:SetFeedbackText [Script Bytecode]
+msgctxt ",BBDD521D43DDF4D30CF59DA629853E0B"
+msgid "Excelente trabalho!"
+msgstr "Excellent work!"
+
+#. Key:	BCBCC4CEC640FBF6463D4C8623E722F1
+#. SourceLocation:	/Game/LevelsParameters/Cooking/BP_SelectCookTool.BP_SelectCookTool_C:MoveToFillWater [Script Bytecode]
+#: /Game/LevelsParameters/Cooking/BP_SelectCookTool.BP_SelectCookTool_C:MoveToFillWater [Script Bytecode]
+msgctxt ",BCBCC4CEC640FBF6463D4C8623E722F1"
+msgid "{left}\n({right} "
+msgstr "{left}\n{right}"
+
+#. Key:	BD732E774A80AB18F2182D9F46437609
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:StoringMessage [Script Bytecode]
+msgctxt ",BD732E774A80AB18F2182D9F46437609"
+msgid "Má arrumação"
+msgstr "Bad stored"
+
+#. Key:	BD74BBCCFD4D86FB8BD93D94D8D006A0
+#. SourceLocation:	/Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.TextBlock_1.Text
+#: /Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.TextBlock_1.Text
+msgctxt ",BD74BBCCFD4D86FB8BD93D94D8D006A0"
+msgid "Novos objetos de customização"
+msgstr "New customization options"
+
+#. Key:	BD7F8FB92E4362A32F4FE88C77B5B155
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock.Text
+msgctxt ",BD7F8FB92E4362A32F4FE88C77B5B155"
+msgid "UI Designer"
+msgstr "UI Designer"
+
+#. Key:	BF0D14814EF3C9750541878AEA7948F9
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_3.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_3.Text
+msgctxt ",BF0D14814EF3C9750541878AEA7948F9"
+msgid "Nome da receita"
+msgstr "Recipe Name"
+
+#. Key:	BF655EE740667D66CCC604B77EA4EB79
+#. SourceLocation:	/Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:Get_Counter_Text [Script Bytecode]
+#: /Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:Get_Counter_Text [Script Bytecode]
+msgctxt ",BF655EE740667D66CCC604B77EA4EB79"
+msgid "Alimentos arrumados: {Stored} / {tobeStored} "
+msgstr "Stored food: {Stored} / {tobeStored}"
+
+#. Key:	C0858E7A43A00852FA43B6BBABCECD68
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaAsset.BananaAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaAsset.BananaAsset.Description
+msgctxt ",C0858E7A43A00852FA43B6BBABCECD68"
+msgid "a banana"
+msgstr "the banana"
+
+#. Key:	C0C063D74FD25A088E3E46B2692D564D
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PinkHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PinkHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",C0C063D74FD25A088E3E46B2692D564D"
+msgid "PinkHat"
+msgstr ""
+
+#. Key:	C1F6E1741D4DFBFD166EF581EA9571FF
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_13.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_13.Text
+msgctxt ",C1F6E1741D4DFBFD166EF581EA9571FF"
+msgid "Orientador"
+msgstr "Supervisor"
+
+#. Key:	C291DE394ACD6FFD70B96799D3162F00
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaAsset.BananaAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/BananaAsset.BananaAsset.TooltipDialogue
+msgctxt ",C291DE394ACD6FFD70B96799D3162F00"
+msgid "é arrumada no frigorífico, congelador"
+msgstr "is stored in the fridge or freezer"
+
+#. Key:	C6C1C8039545E6F03E7617B653FC83D4
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeSlicingTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeSlicingTitle [Script Bytecode]
+msgctxt ",C6C1C8039545E6F03E7617B653FC83D4"
+msgid "Escolha fatias"
+msgstr "Slices choice"
+
+#. Key:	C7D3B8D50749431AE421A687D8A6DA41
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_22.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_22.Text
+msgctxt ",C7D3B8D50749431AE421A687D8A6DA41"
+msgid "Artistas"
+msgstr "Artists"
+
+#. Key:	C89B07E54597616F37972DA0BFFE9444
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookedSteakAsset.CookedSteakAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookedSteakAsset.CookedSteakAsset.Description
+msgctxt ",C89B07E54597616F37972DA0BFFE9444"
+msgid "a carne cozida"
+msgstr "the cooked meat"
+
+#. Key:	CA45CEB747F2581191F096A21E26B5F7
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookieAsset.CookieAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookieAsset.CookieAsset.Description
+msgctxt ",CA45CEB747F2581191F096A21E26B5F7"
+msgid "a bolacha"
+msgstr "the cookie"
+
+#. Key:	CA65E45D499FE350BE92CAAFF33012F4
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_6.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_6.Text
+msgctxt ",CA65E45D499FE350BE92CAAFF33012F4"
+msgid "Nome da comida"
+msgstr "Recipe Name"
+
+#. Key:	CE3D5BF5A24A99279F9CD3A514331BC7
+#. SourceLocation:	/Game/TopDown/Maps/SliceLevel.SliceLevel:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/SliceLevel.SliceLevel:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+msgctxt ",CE3D5BF5A24A99279F9CD3A514331BC7"
+msgid "Text testing omg eheh xd \nwtf is this"
+msgstr ""
+
+#. Key:	CEB636B55F43C04BBF9351B1F027E451
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_41.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_41.Text
+msgctxt ",CEB636B55F43C04BBF9351B1F027E451"
+msgid "Unreal Engine (built in)"
+msgstr "Unreal Engine (built in)"
+
+#. Key:	CF6BA9AD43E04F92D50AFB96E6091506
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PotatoAsset.PotatoAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/PotatoAsset.PotatoAsset.TooltipDialogue
+msgctxt ",CF6BA9AD43E04F92D50AFB96E6091506"
+msgid "é arrumada na despensa"
+msgstr "is stored in the pantry"
+
+#. Key:	D052E9C743010BF8C517368C8A876F87
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CheeseAsset.CheeseAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CheeseAsset.CheeseAsset.Description
+msgctxt ",D052E9C743010BF8C517368C8A876F87"
+msgid "o queijo"
+msgstr "the cheese"
+
+#. Key:	D0895AB0497ADC36354466A8DEAB56E8
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_5.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_5.Text
+msgctxt ",D0895AB0497ADC36354466A8DEAB56E8"
+msgid "Receita 1"
+msgstr "Recipe 1"
+
+#. Key:	D0C11E9E41395F298E696194FF44EBBA
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalamiAsset.SalamiAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/SalamiAsset.SalamiAsset.StoringZones(0).StoringZones
+msgctxt ",D0C11E9E41395F298E696194FF44EBBA"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	D0F8BD6D44FFA8D378393D854658C2BB
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OpenJuiceAsset.OpenJuiceAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/OpenJuiceAsset.OpenJuiceAsset.StoringZones(0).StoringZones
+msgctxt ",D0F8BD6D44FFA8D378393D854658C2BB"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	D278D569914E744DF5204EA44C570446
+#. SourceLocation:	/Game/UIElements/WBP_CleaningPlates.WBP_CleaningPlates_C:WidgetTree.StayinLevel.TextToDisplay
+#: /Game/UIElements/WBP_CleaningPlates.WBP_CleaningPlates_C:WidgetTree.StayinLevel.TextToDisplay
+msgctxt ",D278D569914E744DF5204EA44C570446"
+msgid "Não"
+msgstr "No"
+
+#. Key:	D56657F2254C77279E570E94533D3996
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_14.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_14.NewTextRenderComponent.Text
+msgctxt ",D56657F2254C77279E570E94533D3996"
+msgid "Despensa"
+msgstr "Pantry"
+
+#. Key:	D5F6FB49264E5CAA95BA23883D72C036
+#. SourceLocation:	/Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",D5F6FB49264E5CAA95BA23883D72C036"
+msgid "Créditos"
+msgstr "Credits"
+
+#. Key:	D65E2A56384B451AB4181883BD52BB04
+#. SourceLocation:	/Game/TopDown/Maps/SliceLevel.SliceLevel:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/SliceLevel.SliceLevel:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",D65E2A56384B451AB4181883BD52BB04"
+msgid "Counter"
+msgstr ""
+
+#. Key:	D664BB8F4E198CA336C861B2F353C1D3
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:SetFeedbackText [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:SetFeedbackText [Script Bytecode]
+msgctxt ",D664BB8F4E198CA336C861B2F353C1D3"
+msgid "Bom esforço, continua a melhorar!"
+msgstr "Good effort, keep improving!"
+
+#. Key:	D6C6F36E43F819245EAC3AB3F69E042A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ChickenAsset.ChickenAsset.StoringZones(0).StoringZones
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ChickenAsset.ChickenAsset.StoringZones(0).StoringZones
+msgctxt ",D6C6F36E43F819245EAC3AB3F69E042A"
+msgid "FridgeShelf1"
+msgstr ""
+
+#. Key:	D7DA996A4BC5956CD125C9B46105B506
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.WhiteHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.WhiteHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",D7DA996A4BC5956CD125C9B46105B506"
+msgid "WhiteHat"
+msgstr ""
+
+#. Key:	DA18671349E8128FB21486A518890C4C
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Add Errors Text [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:Add Errors Text [Script Bytecode]
+msgctxt ",DA18671349E8128FB21486A518890C4C"
+msgid "Escolha fatias e utensílio"
+msgstr "Selecting slices and utensil"
+
+#. Key:	DAFE02BC4B7E2C779A42B8AFE9737768
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PinkJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.PinkJacket.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",DAFE02BC4B7E2C779A42B8AFE9737768"
+msgid "PinkJacket"
+msgstr ""
+
+#. Key:	DB0B27CB7843B9F9D8BB6EBE274C83BB
+#. SourceLocation:	/Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.RemoveWidget.TextToDisplay
+#: /Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.RemoveWidget.TextToDisplay
+msgctxt ",DB0B27CB7843B9F9D8BB6EBE274C83BB"
+msgid "X"
+msgstr "X"
+
+#. Key:	DC58332E974FA20B10E14A8B705C998D
+#. SourceLocation:	/Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:ExecuteUbergraph_WBP_CleanedComposting [Script Bytecode]
+#: /Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:ExecuteUbergraph_WBP_CleanedComposting [Script Bytecode]
+msgctxt ",DC58332E974FA20B10E14A8B705C998D"
+msgid "O combustor está vazio."
+msgstr "The combustor is empty."
+
+#. Key:	DCF3ADE64DF2B2DF42EFCA9E4E04704A
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CutTunaAsset.CutTunaAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CutTunaAsset.CutTunaAsset.Description
+msgctxt ",DCF3ADE64DF2B2DF42EFCA9E4E04704A"
+msgid "a posta de atum"
+msgstr "the tuna steak"
+
+#. Key:	DD32EB682D489AE7314827BD51A686EB
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceBananaData.SliceBananaData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceBananaData.SliceBananaData.Description
+msgctxt ",DD32EB682D489AE7314827BD51A686EB"
+msgid "Banana"
+msgstr "Banana"
+
+#. Key:	DE060BB4495A3C191A94CB93C36FD566
+#. SourceLocation:	/Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.ChefOlivia.Text
+#: /Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.ChefOlivia.Text
+msgctxt ",DE060BB4495A3C191A94CB93C36FD566"
+msgid "Chef Olivia "
+msgstr "Chef Olivia"
+
+#. Key:	DE7E04E14CFE3D0EDDB26999658AB19C
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:Get_ExpiryDate2_Text [Script Bytecode]
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:Get_ExpiryDate2_Text [Script Bytecode]
+msgctxt ",DE7E04E14CFE3D0EDDB26999658AB19C"
+msgid "Validade: {expiry} dias"
+msgstr "Expiry: {expiry} dias"
+
+#. Key:	DF2FE7911249419267661686D3720F86
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+msgctxt ",DF2FE7911249419267661686D3720F86"
+msgid "Bonus: + {xp} experiência"
+msgstr "Bonus: + {xp} experience"
+
+#. Key:	DF7373E947C146F7A288D39A75057775
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_12.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_12.NewTextRenderComponent.Text
+msgctxt ",DF7373E947C146F7A288D39A75057775"
+msgid "Bebidas"
+msgstr "Drinks"
+
+#. Key:	DFF4F7774C0650EE2DC8D0A45CFCB27E
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/ELocationCategory.ELocationCategory.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Storing/Structures/ELocationCategory.ELocationCategory.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",DFF4F7774C0650EE2DC8D0A45CFCB27E"
+msgid "Freezer"
+msgstr "Freezer"
+
+#. Key:	E04F471340E73FD0571E5A9C73B9E099
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread1Asset.Bread1Asset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/Bread1Asset.Bread1Asset.Description
+msgctxt ",E04F471340E73FD0571E5A9C73B9E099"
+msgid "o pão"
+msgstr "the bread"
+
+#. Key:	E1F7DF13594A822D98116CA7CEC70C65
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_32.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_32.Text
+msgctxt ",E1F7DF13594A822D98116CA7CEC70C65"
+msgid "Francisco Vasconcelos"
+msgstr "Francisco Vasconcelos"
+
+#. Key:	E21E9C994034E0AA8E0DA5B4E764CFFB
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.EmptyFace.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.EmptyFace.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",E21E9C994034E0AA8E0DA5B4E764CFFB"
+msgid "EmptyFace"
+msgstr ""
+
+#. Key:	E29EE8C231459B53891F4ABD218EEFB8
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_18.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_18.Text
+msgctxt ",E29EE8C231459B53891F4ABD218EEFB8"
+msgid "Francisco Vasconcelos"
+msgstr "Francisco Vasconcelos"
+
+#. Key:	E2E09100B44259D3D815228C8E3AC13C
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_8.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_8.Text
+msgctxt ",E2E09100B44259D3D815228C8E3AC13C"
+msgid "João Gouveia (Doxa)"
+msgstr "João Gouveia (Doxa)"
+
+#. Key:	E47DA473B145A20812E67AB14550081D
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_37.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_37.Text
+msgctxt ",E47DA473B145A20812E67AB14550081D"
+msgid "Produção de Vídeo"
+msgstr "Video Production"
+
+#. Key:	E48BB255432037A728298E99215752CE
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookedSteakAsset.CookedSteakAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookedSteakAsset.CookedSteakAsset.TooltipDialogue
+msgctxt ",E48BB255432037A728298E99215752CE"
+msgid "é arrumada no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	E4F42DF14687EF9345ACF49F65B07BF9
+#. SourceLocation:	/Game/LevelsParameters/Customization/ECustomizationCategory.ECustomizationCategory.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Customization/ECustomizationCategory.ECustomizationCategory.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",E4F42DF14687EF9345ACF49F65B07BF9"
+msgid "Hat"
+msgstr ""
+
+#. Key:	E5A5EDE94F693A955193998C6639E626
+#. SourceLocation:	/Game/LevelsParameters/Cooking/Structures/ECookToolType.ECookToolType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Cooking/Structures/ECookToolType.ECookToolType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E5A5EDE94F693A955193998C6639E626"
+msgid "Plate"
+msgstr ""
+
+#. Key:	E5DC63BE43E81622E4CD658A04AF66EE
+#. SourceLocation:	/Game/UIElements/WBP_ChangeLevel.WBP_ChangeLevel_C:WidgetTree.PromptText.Text
+#: /Game/UIElements/WBP_ChangeLevel.WBP_ChangeLevel_C:WidgetTree.PromptText.Text
+msgctxt ",E5DC63BE43E81622E4CD658A04AF66EE"
+msgid "Queres entrar nesta zona"
+msgstr "Do you want to enter this zone"
+
+#. Key:	E631C8234EB5366F74F0FAB0E06D17DC
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.PromptText_1.Text
+#: /Game/UIElements/StoringUI/WBP_AddScoreOLD.WBP_AddScoreOLD_C:WidgetTree.PromptText_1.Text
+msgctxt ",E631C8234EB5366F74F0FAB0E06D17DC"
+msgid "Queres entrar nesta zona?"
+msgstr "Do you want to enter this zone?"
+
+#. Key:	E7254A9741FC24316AFACDB48E99E5A9
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ExpiryDots_GEN_VARIABLE.Text
+#: /Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ExpiryDots_GEN_VARIABLE.Text
+msgctxt ",E7254A9741FC24316AFACDB48E99E5A9"
+msgid "- -"
+msgstr "- -"
+
+#. Key:	E8E5D3ED8B46BB1BAC0864A5CAE07A90
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",E8E5D3ED8B46BB1BAC0864A5CAE07A90"
+msgid "Continuar"
+msgstr "Continue"
+
+#. Key:	EA3815D2BE4390928308B2A67E2C904B
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeSlicingTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeSlicingTitle [Script Bytecode]
+msgctxt ",EA3815D2BE4390928308B2A67E2C904B"
+msgid "Escolha utensílio"
+msgstr "Utensil choice"
+
+#. Key:	EAE7BC54426C295561A3F7883676452A
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceAppleData.SliceAppleData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceAppleData.SliceAppleData.Description
+msgctxt ",EAE7BC54426C295561A3F7883676452A"
+msgid "Maçã"
+msgstr "Apple"
+
+#. Key:	EBBE9D5A43935C8472383884298DB918
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_1.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_1.Text
+msgctxt ",EBBE9D5A43935C8472383884298DB918"
+msgid "Receita 2"
+msgstr "Recipe 2"
+
+#. Key:	ED3E784E9447C6E8AE41669A896E396D
+#. SourceLocation:	/Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.TextBlock_404.Text
+#: /Game/UIElements/WBP_Language.WBP_Language_C:WidgetTree.TextBlock_404.Text
+msgctxt ",ED3E784E9447C6E8AE41669A896E396D"
+msgid "Seleciona o idioma"
+msgstr "Select your language"
+
+#. Key:	EE159FED48B8D67CF563FB9E3BB45C5B
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookieAsset.CookieAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/CookieAsset.CookieAsset.TooltipDialogue
+msgctxt ",EE159FED48B8D67CF563FB9E3BB45C5B"
+msgid "é arrumada na despensa"
+msgstr "is stored in the pantry"
+
+#. Key:	F1853332834F9F9254B6019642CFD2D1
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_42.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_42.Text
+msgctxt ",F1853332834F9F9254B6019642CFD2D1"
+msgid "Mixamo"
+msgstr "Mixamo"
+
+#. Key:	F246FE7B490FDC8A4ED03D9BE2518E0E
+#. SourceLocation:	/Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.Level_2.Text
+#: /Game/UIElements/WBP_CommonUI.WBP_CommonUI_C:WidgetTree.Level_2.Text
+msgctxt ",F246FE7B490FDC8A4ED03D9BE2518E0E"
+msgid "Título: Aprendiz"
+msgstr "Title : Learner"
+
+#. Key:	F2BA9D76AC4F6D1EA78F11B955021A8D
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.CremeHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.CremeHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",F2BA9D76AC4F6D1EA78F11B955021A8D"
+msgid "CremeHat"
+msgstr ""
+
+#. Key:	F33354754B7CB8D17AB7C196B930DEDE
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/Storing_Manager.Storing_Manager_C:ChefPressFoodComment [Script Bytecode]
+#: /Game/LevelsParameters/Storing/Structures/Storing_Manager.Storing_Manager_C:ChefPressFoodComment [Script Bytecode]
+msgctxt ",F33354754B7CB8D17AB7C196B930DEDE"
+msgid "{namept} {tooltip}. "
+msgstr ""
+
+#. Key:	F41340EC4F6A3B72A64C2F8C1299A584
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/ELocationCategory.ELocationCategory.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/LevelsParameters/Storing/Structures/ELocationCategory.ELocationCategory.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F41340EC4F6A3B72A64C2F8C1299A584"
+msgid "Fridge"
+msgstr "Fridge"
+
+#. Key:	F45A00DE4D2D1971DADC91B05BD42BBF
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.YellowHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.YellowHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",F45A00DE4D2D1971DADC91B05BD42BBF"
+msgid "YellowHat"
+msgstr ""
+
+#. Key:	F464B330E8424CFD702F97B7C299CF1C
+#. SourceLocation:	/Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_CleanedComposting.WBP_CleanedComposting_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",F464B330E8424CFD702F97B7C299CF1C"
+msgid "X"
+msgstr "X"
+
+#. Key:	F4F760784DD8063AC9FF26B5D05C150C
+#. SourceLocation:	/Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_404.Text
+#: /Game/UIElements/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_404.Text
+msgctxt ",F4F760784DD8063AC9FF26B5D05C150C"
+msgid "JOGO EM PAUSA"
+msgstr "GAME PAUSED"
+
+#. Key:	F563080A48967B617F7A45BD60B34410
+#. SourceLocation:	/Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_4.Text
+#: /Game/UIElements/WBP_Recipe.WBP_Recipe_C:WidgetTree.TextBlock_4.Text
+msgctxt ",F563080A48967B617F7A45BD60B34410"
+msgid "Nome da comida"
+msgstr "Recipe Name"
+
+#. Key:	F5F156AA4148B6A660DB7E936B258B82
+#. SourceLocation:	/Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeSlicingTitle [Script Bytecode]
+#: /Game/UIElements/WBP_LevelCompleted.WBP_LevelCompleted_C:ChangeSlicingTitle [Script Bytecode]
+msgctxt ",F5F156AA4148B6A660DB7E936B258B82"
+msgid "Escolha comida para cortar"
+msgstr "Select the food to slice"
+
+#. Key:	F71AEB6B4DD065434C845197E91D5C3F
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ButterAsset.ButterAsset.TooltipDialogue
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/ButterAsset.ButterAsset.TooltipDialogue
+msgctxt ",F71AEB6B4DD065434C845197E91D5C3F"
+msgid "é arrumada no frigorífico"
+msgstr "is stored in the fridge"
+
+#. Key:	F78F6DCA442758B33B4E8F857B2BDFF6
+#. SourceLocation:	/Game/LevelsParameters/Storing/Structures/DataAssetsChilds/FoodBowlAsset.FoodBowlAsset.Description
+#: /Game/LevelsParameters/Storing/Structures/DataAssetsChilds/FoodBowlAsset.FoodBowlAsset.Description
+msgctxt ",F78F6DCA442758B33B4E8F857B2BDFF6"
+msgid "a tigela de comer"
+msgstr "the food bowl"
+
+#. Key:	F7B2D8B74182D9E5E7130C9665321A03
+#. SourceLocation:	/Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:SetXpText [Script Bytecode]
+#: /Game/UIElements/StoringUI/WBP_AddScore.WBP_AddScore_C:SetXpText [Script Bytecode]
+msgctxt ",F7B2D8B74182D9E5E7130C9665321A03"
+msgid "+ {xp} "
+msgstr "+ {xp} "
+
+#. Key:	F8C129B54A265BA2181A398974341A43
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.EmptyHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.EmptyHat.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",F8C129B54A265BA2181A398974341A43"
+msgid "EmptyHat"
+msgstr ""
+
+#. Key:	F8D4EE9EE24D6DB2515F518A5F55B742
+#. SourceLocation:	/Game/UIElements/WBP_CleaningPlates.WBP_CleaningPlates_C:WidgetTree.PromptText.Text
+#: /Game/UIElements/WBP_CleaningPlates.WBP_CleaningPlates_C:WidgetTree.PromptText.Text
+msgctxt ",F8D4EE9EE24D6DB2515F518A5F55B742"
+msgid "Queres limpar os pratos?"
+msgstr "Do you want to clean the dishes?"
+
+#. Key:	F99448694EB32FBE2FB632A931C5B38B
+#. SourceLocation:	/Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.Glasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+#: /Game/LevelsParameters/Customization/CustomizationDataTable.CustomizationDataTable.Glasses.Name_2_65AE0FCF409146BF99187CA70B439BAB
+msgctxt ",F99448694EB32FBE2FB632A931C5B38B"
+msgid "Glasses"
+msgstr ""
+
+#. Key:	F9B0D4E84A5107E0DBF65EAB7901A646
+#. SourceLocation:	/Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+#: /Game/TopDown/Maps/StoringLevel.StoringLevel:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+msgctxt ",F9B0D4E84A5107E0DBF65EAB7901A646"
+msgid "Lacticínios/Compotas"
+msgstr "Dairy/Jams"
+
+#. Key:	FB7F2216D44F37D5F24ED68C07321CE3
+#. SourceLocation:	/Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.MainMenuButtons.TextToDisplay
+#: /Game/UIElements/WBP_LevelUp.WBP_LevelUp_C:WidgetTree.MainMenuButtons.TextToDisplay
+msgctxt ",FB7F2216D44F37D5F24ED68C07321CE3"
+msgid "Fechar"
+msgstr "Close"
+
+#. Key:	FF1D5A117E40E9F7FDBE7CABE2704406
+#. SourceLocation:	/Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+#: /Game/UIElements/WBP_DayCompleted.WBP_DayCompleted_C:Set5StarsBonusXpText [Script Bytecode]
+msgctxt ",FF1D5A117E40E9F7FDBE7CABE2704406"
+msgid "5 Estrelas e Bonus: + {xp} experiência"
+msgstr "5 Stars and Bonus: + {xp} experience"
+
+#. Key:	FFB71B6B864BF9AA05D752B46AC15028
+#. SourceLocation:	/Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_35.Text
+#: /Game/UIElements/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_35.Text
+msgctxt ",FFB71B6B864BF9AA05D752B46AC15028"
+msgid "Level Design"
+msgstr "Level Design"
+
+#. Key:	FFCBE5FB4759F383FC3ED8AFBFB47CD3
+#. SourceLocation:	/Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceWheatBreadData.SliceWheatBreadData.Description
+#: /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/SliceWheatBreadData.SliceWheatBreadData.Description
+msgctxt ",FFCBE5FB4759F383FC3ED8AFBFB47CD3"
+msgid "Pão"
+msgstr "Bread"
+
+#. Key:	FFE8F8764C9C52FBC8DB37A703A184BD
+#. SourceLocation:	/Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+#: /Game/LevelsParameters/Storing/BP_StoredFood.BP_StoredFood_C:ChangeExpiryProgressNEW [Script Bytecode]
+msgctxt ",FFE8F8764C9C52FBC8DB37A703A184BD"
+msgid "- "
+msgstr "- "
+

@@ -504,7 +504,6 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Tuna
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Tuna_Cut
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Wheat_Bread_A
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MonkeyArms
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MonkeyTexture
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\PressUI1
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\PressUI2
@@ -551,7 +550,6 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\SlicingTesting\UnrealExample\UniversalLowerSaturationTextureNEWNEW
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\SlicingTesting\VFX\M_smoke_subUV
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\SlicingTesting\VFX\SlicingSystem
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\SlicingTesting\VFX\SmokeSystem
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\SlicingTesting\VFX\Steam
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\SlicingTesting\VFX\WaterSplashSystem
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Storing\ArrowColors\MI_ArrowBrown
@@ -651,14 +649,12 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Megascans\Surfaces\Wooden_Floor_wdipfjw\T_Wooden_Floor_wdipfjw_1K_D
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Megascans\Surfaces\Wooden_Floor_wdipfjw\T_Wooden_Floor_wdipfjw_1K_N
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Megascans\Surfaces\Wooden_Floor_wdipfjw\T_WoodenFloor_wdipfjw_1K_ORDp
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\final3agostoMediasource
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\IntroductionVideoPT
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\IntroVideoEN
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\IntroVideoTexEN
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\IntroVideoTexPT
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\M_IntroVideoEN
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\M_IntroVideoPT
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\MyPlayer
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\MSPresets\M_MS_Surface_Material\M_MS_Surface_Material
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\StarterContent\Textures\T_Smoke_SubUV
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\StarterContent\Textures\T_Smoke_Tiled_D

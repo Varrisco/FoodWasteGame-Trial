@@ -1,0 +1,1449 @@
+﻿Log file open, 02/19/24 17:00:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=0)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=0)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=0)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=24748)
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: MastersCoD
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCore: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark'
+LogCore: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.1-CL-23901901"
+LogCsvProfiler: Display: Metadata set : engineversion="5.1.1-23901901+++UE5+Release-5.1"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\MastersCoD.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.4046] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f056bd9243e7511d07b2f1b44ebd575a"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.252158
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-13F1B0F6432552F73698849160B280C2
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BinkMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+LogInit: Build: ++UE5+Release-5.1-CL-23901901
+LogInit: Engine Version: 5.1.1-23901901+++UE5+Release-5.1
+LogInit: Compatible Engine Version: 5.1.0-23058290+++UE5+Release-5.1
+LogInit: Net CL: 23058290
+LogInit: OS: Windows 10 (22H2) [10.0.19045.4046] (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+LogInit: Compiled (64-bit): Jan 30 2023 05:19:00
+LogInit: Compiled with Visual C++: 19.29.30147.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.1
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.1/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 80
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 4
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 88
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: Set CVar [[r.setres:1280x720]]
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
+LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VSync:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.ShadingPath:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.SupportGPUScene:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.AntiAliasing:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.FloatPrecisionMode:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.VirtualTextures:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DiscardUnusedQuality:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Shaders.CompressionFormat:2]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.AllowOcclusionQueries:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.PrecomputedVisibilityWarning:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.TextureStreaming:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[Compat.UseDXT5NormalMaps:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VirtualTextures:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VT.EnableAutoImport:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VirtualTexturedLightmaps:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VT.AnisotropicFiltering:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[bEnableVirtualTextureOpacityMask:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VT.TileSize:128]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VT.TileBorderSize:4]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.vt.FeedbackFactor:16]]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.ClearCoatNormal:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.ReflectionCaptureResolution:128]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Lumen.HardwareRayTracing:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Lumen.HardwareRayTracing.LightingMode:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.EnableForProject:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Shadow.Virtual.Enable:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.RayTracing:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.RayTracing.Shadows:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.RayTracing.Skylight:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.RayTracing.UseTextureLod:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.PathTracing:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DistanceFields.DefaultVoxelDensity:0.200000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Nanite.ProjectEnabled:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.AllowStaticLighting:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.NormalMapsForStaticLighting:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.ForwardShading:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VertexFoggingForOpaque:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SeparateTranslucency:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.TranslucentSortPolicy:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[vr.VRS.HMDFixedFoveationDynamic:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.CustomDepth:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.Bloom:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.MotionBlur:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.LensFlare:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.TemporalAA.Upsampling:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.AntiAliasingMethod:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MSAACount:4]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultFeature.LightUnits:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.StencilForLODDither:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.EarlyZPass:3]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Shadow.CSMCaching:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.DBuffer:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.ClearSceneMethod:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.VelocityOutputPass:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Velocity.EnableVertexDeformation:2]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SelectiveBasePassOutputs:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.AllowGlobalClipPlane:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GBufferFormat:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MorphTarget.Mode:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[vr.InstancedStereo:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MobileHDR:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[vr.MobileMultiView:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[vr.RoundRobinOcclusion:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.MeshStreaming:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.HeterogeneousVolumes:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.WireframeCullThreshold:5.000000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportStationarySkylight:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportLowQualityLightmaps:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportSkyAtmosphere:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportCloudShadowOnForwardLitTranslucent:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Shadow.TranslucentPerObject.ProjectEnabled:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Water.SingleLayerWater.SupportCloudShadow:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Strata:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Strata.BytesPerPixel:80]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Strata.OpaqueMaterialRoughRefraction:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Strata.Debug.AdvancedVisualizationShaders:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Material.RoughDiffuse:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Material.EnergyConservation:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.OIT.SortedPixels:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SkinCache.CompileShaders:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SkinCache.SkipCompilingGPUSkinVF:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SkinCache.DefaultBehavior:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.Forward.EnableLocalLights:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.Forward.EnableClusteredReflections:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.EnableNoPrecomputedLightingCSMShader:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.SupportReversedIndexBuffers:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.AmbientOcclusion:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[r.Mobile.SupportsGen4TAA:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2024.02.19-17.00.34:609][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.02.19-17.00.34:609][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.19-17.00.34:609][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.VerifyGCObjectNames:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[gc.PendingKillEnabled:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bEnableCookOnTheSide:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bEnableBuildDDCInBackground:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bIterativeCookingForLaunchOn:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bIterativeCookingForFileCookContent:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bCookOnTheFlyForLaunchOn:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[cook.displaymode:1]]
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bIgnoreIniSettingsOutOfDateForIteration:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bIgnoreScriptPackagesOutOfDateForIteration:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bCompileBlueprintsInDevelopmentMode:1]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[BlueprintComponentDataCookingMethod:EnabledBlueprintsOnly]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[BlueprintPropertyGuidsCookingMethod:EnabledBlueprintsOnly]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[VersionedIntRValues:]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[cook.ASTCTextureCompressor:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[cook.AllowASTCHDRProfile:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:610][  0]LogConfig: Set CVar [[cook.AllowCookedDataInEditorBuilds:0]]
+[2024.02.19-17.00.34:610][  0]LogConfig: CVar [[bCookBlueprintComponentTemplateData:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:611][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.History.GrandReprojection:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.Velocity.Extrapolation:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: CVar [[r.TSR.Velocity.HoleFill:1]] deferred - dummy variable created
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardCaptureRefreshFraction:0.125]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:70.711]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.19-17.00.34:611][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: CVar [[fx.Niagara.QualityLevel:3]] deferred - dummy variable created
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.19-17.00.34:612][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.02.19-17.00.34:612][  0]LogHAL: Display: Platform has ~ 32 GB [34204610560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.19-17.00.34:612][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.02.19-17.00.34:612][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[r.DumpShaderDebugInfo:2]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.02.19-17.00.34:612][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Config/WindowsEditor/Editor.ini]
+[2024.02.19-17.00.34:612][  0]LogInit: Computer: FRANCISCLEGION
+[2024.02.19-17.00.34:612][  0]LogInit: User: FranciscLegion
+[2024.02.19-17.00.34:612][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.02.19-17.00.34:612][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.19-17.00.34:612][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2024.02.19-17.00.34:612][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.02.19-17.00.34:612][  0]LogMemory: Process Physical Memory: 264.83 MB used, 264.83 MB peak
+[2024.02.19-17.00.34:612][  0]LogMemory: Process Virtual Memory: 271.11 MB used, 271.11 MB peak
+[2024.02.19-17.00.34:612][  0]LogMemory: Physical Memory: 12063.83 MB used,  20556.23 MB free, 32620.06 MB total
+[2024.02.19-17.00.34:612][  0]LogMemory: Virtual Memory: 20918.83 MB used,  19851.76 MB free, 40770.59 MB total
+[2024.02.19-17.00.34:612][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.02.19-17.00.34:628][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.19-17.00.34:641][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.02.19-17.00.34:642][  0]LogInit: Using OS detected language (en-US).
+[2024.02.19-17.00.34:642][  0]LogInit: Using OS detected locale (en-US).
+[2024.02.19-17.00.34:644][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2024.02.19-17.00.34:805][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.19-17.00.34:815][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.02.19-17.00.34:815][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2024.02.19-17.00.34:815][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2024.02.19-17.00.34:815][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.02.19-17.00.34:825][  0]LogSlate: New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
+[2024.02.19-17.00.34:825][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.19-17.00.34:944][  0]LogD3D12RHI: Aftermath initialized
+[2024.02.19-17.00.34:944][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.02.19-17.00.35:106][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_2, shader model 6.6)
+[2024.02.19-17.00.35:106][  0]LogD3D12RHI: Adapter has 5996MB of dedicated video memory, 0MB of dedicated system memory, and 16310MB of shared system memory, 1 output[s]
+[2024.02.19-17.00.35:110][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.02.19-17.00.35:110][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16310MB of shared system memory, 0 output[s]
+[2024.02.19-17.00.35:110][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.02.19-17.00.35:110][  0]LogD3D12RHI: Display: Creating D3D12 RHI with Max Feature Level SM6
+[2024.02.19-17.00.35:111][  0]LogWindows: Attached monitors:
+[2024.02.19-17.00.35:111][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.02.19-17.00.35:111][  0]LogWindows: Found 1 attached monitors.
+[2024.02.19-17.00.35:111][  0]LogWindows: Gathering driver information using Windows Setup API
+[2024.02.19-17.00.35:111][  0]LogRHI: RHI Adapter Info:
+[2024.02.19-17.00.35:111][  0]LogRHI:             Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2024.02.19-17.00.35:111][  0]LogRHI:   Driver Version: 551.52 (internal:31.0.15.5152, unified:551.52)
+[2024.02.19-17.00.35:111][  0]LogRHI:      Driver Date: 2-7-2024
+[2024.02.19-17.00.35:111][  0]LogD3D12RHI:     GPU DeviceId: 0x2560 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.19-17.00.35:111][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.02.19-17.00.35:114][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.02.19-17.00.35:114][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.02.19-17.00.35:229][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device8 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device9 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: ID3D12Device10 is supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: Bindless resources are supported
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 and bindless resources are supported.
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.02.19-17.00.35:230][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.02.19-17.00.35:270][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (3D)
+[2024.02.19-17.00.35:271][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Copy)
+[2024.02.19-17.00.35:271][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Compute)
+[2024.02.19-17.00.35:290][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.02.19-17.00.35:290][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.02.19-17.00.35:291][  0]LogRHI: Texture pool is 3293 MB (70% of 4705 MB)
+[2024.02.19-17.00.35:291][  0]LogD3D12RHI: Async texture creation enabled
+[2024.02.19-17.00.35:291][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.02.19-17.00.35:310][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyReport_0.log" -log="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyLog_0.log" -project="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject"  -platform=all'
+[2024.02.19-17.00.35:310][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyReport_0.log" -log="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyLog_0.log" -project="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject"  -platform=all" ]
+[2024.02.19-17.00.35:331][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2024.02.19-17.00.35:331][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2024.02.19-17.00.35:331][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2024.02.19-17.00.35:331][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2024.02.19-17.00.35:331][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2024.02.19-17.00.35:331][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.8
+[2024.02.19-17.00.35:331][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.02.19-17.00.35:332][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2024.02.19-17.00.35:332][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2024.02.19-17.00.35:332][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2024.02.19-17.00.35:333][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.19-17.00.35:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.19-17.00.35:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.02.19-17.00.35:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.02.19-17.00.35:358][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2024.02.19-17.00.35:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.19-17.00.35:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.19-17.00.35:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.19-17.00.35:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.02.19-17.00.35:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.19-17.00.35:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.19-17.00.35:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.02.19-17.00.35:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.02.19-17.00.35:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.02.19-17.00.35:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.19-17.00.35:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.19-17.00.35:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.19-17.00.35:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.02.19-17.00.35:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.19-17.00.35:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.19-17.00.35:370][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.02.19-17.00.35:376][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.19-17.00.35:378][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.02.19-17.00.35:378][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.02.19-17.00.35:378][  0]LogTargetPlatformManager:   ADPCM
+[2024.02.19-17.00.35:378][  0]LogTargetPlatformManager:   PCM
+[2024.02.19-17.00.35:380][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.02.19-17.00.35:380][  0]LogTargetPlatformManager:   BINKA
+[2024.02.19-17.00.35:380][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.02.19-17.00.35:380][  0]LogTargetPlatformManager:   OGG
+[2024.02.19-17.00.35:380][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.02.19-17.00.35:380][  0]LogTargetPlatformManager:   OPUS
+[2024.02.19-17.00.35:406][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.02.19-17.00.35:410][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.02.19-17.00.35:414][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.02.19-17.00.35:414][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.02.19-17.00.35:414][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.02.19-17.00.35:415][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.02.19-17.00.35:415][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.02.19-17.00.35:415][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.02.19-17.00.35:415][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.02.19-17.00.35:415][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2024.02.19-17.00.35:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file ../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.19-17.00.35:426][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.02.19-17.00.35:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.19-17.00.35:426][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.02.19-17.00.35:447][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1363 MiB)
+[2024.02.19-17.00.35:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.19-17.00.35:447][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.02.19-17.00.35:454][  0]LogDerivedDataCache: Speed tests for C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.02.19-17.00.35:454][  0]LogDerivedDataCache: Display: Performance to C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1408.83MBs, RandomWriteSpeed=163.19MBs. Assigned SpeedClass 'Local'
+[2024.02.19-17.00.35:455][  0]LogDerivedDataCache: Using Local data cache path C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.19-17.00.35:455][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.19-17.00.35:455][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.02.19-17.00.35:455][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.02.19-17.00.35:455][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.02.19-17.00.35:455][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/Shaders/WorkingDirectory/25552/).
+[2024.02.19-17.00.35:455][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/FranciscLegion/AppData/Local/Temp/UnrealShaderWorkingDir/7183A37B436748A3C0A984A90985BF88/'.
+[2024.02.19-17.00.35:456][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.02.19-17.00.35:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2024.02.19-17.00.36:030][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.02.19-17.00.36:255][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2024.02.19-17.00.36:256][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.19-17.00.36:524][  0]LogSlate: Using FreeType 2.10.0
+[2024.02.19-17.00.36:525][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.19-17.00.36:561][  0]LogAssetRegistry: FAssetRegistry took 0.0116 seconds to start up
+[2024.02.19-17.00.36:564][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.02.19-17.00.36:711][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: Available device profiles:
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1200][00000A865D2D7800 52] GlobalDefaults, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2800][00000A865CFB2800 52] Windows, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2A00][00000A8654BB0000 52] WindowsEditor, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2400][00000A865DFCC800 52] WindowsServer, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1C00][00000A8664FC0000 52] WindowsClient, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1000][00000A8664FC5000 52] IOS, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2000][00000A8664FC7800 52] iPadAir2, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3200][00000A8664FCC800 52] IPadPro, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3400][00000A8664FCA000 52] iPadAir3, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2E00][00000A865DFC7800 52] iPadAir4, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3E00][00000A8664FE0000 52] iPadAir5, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1800][00000A8664FE5000 52] iPadMini4, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2C00][00000A8664FE7800 52] iPadMini5, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3600][00000A8664FEA000 52] iPadMini6, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5000][00000A8666430000 52] iPhone6S, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5200][00000A8666432800 52] iPhone7, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5400][00000A8666435000 52] iPodTouch7, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1600][00000A866643A000 52] iPhone6SPlus, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1E00][00000A866643C800 52] iPhone7Plus, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3800][00000A8664FC2800 52] iPhoneSE, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A1A00][00000A8664FEC800 52] iPhone8, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2200][00000A8666437800 52] iPhone8Plus, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0200][00000A8664FF0000 52] iPhoneX, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0600][00000A8664FF5000 52] iPhoneXS, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0800][00000A8664FF7800 52] iPhoneXSMax, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4800][00000A8664FFA000 52] iPhoneXR, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3A00][00000A8664FFC800 52] iPhone11, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4200][00000A8664FE2800 52] iPhone11Pro, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4000][00000A8666410000 52] iPhone11ProMax, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5A00][00000A8666415000 52] iPhoneSE2, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0E00][00000A8666417800 52] iPhone12Mini, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3000][00000A866641A000 52] iPhone12, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5600][00000A866641C800 52] iPhone12Pro, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5800][00000A8664FF2800 52] iPhone12ProMax, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0000][00000A8666420000 52] iPhone13Mini, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A3C00][00000A8666425000 52] iPhone13, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4E00][00000A8666427800 52] iPhone13Pro, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4A00][00000A866642A000 52] iPhone13ProMax, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6000][00000A866642C800 52] iPhoneSE3, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4C00][00000A8666412800 52] iPhone14, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6400][00000A86663C0000 52] iPhone14Plus, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6800][00000A86663C5000 52] iPhone14Pro, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6A00][00000A86663C7800 52] iPhone14ProMax, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6E00][00000A86663CA000 52] iPadPro105, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5C00][00000A86663CC800 52] iPadPro129, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0A00][00000A8666422800 52] iPadPro97, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7000][00000A86663E0000 52] iPadPro2_129, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A5E00][00000A86663E5000 52] iPad5, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7400][00000A86663E7800 52] iPad6, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7800][00000A86663EA000 52] iPad7, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7A00][00000A86663EC800 52] iPad8, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7E00][00000A86663C2800 52] iPad9, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A0C00][00000A86663F0000 52] iPad10, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4400][00000A86663F5000 52] iPadPro11, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8000][00000A86663F7800 52] iPadPro2_11, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6C00][00000A86663FA000 52] iPadPro3_11, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8400][00000A86663FC800 52] iPadPro4_11, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8800][00000A86663E2800 52] iPadPro3_129, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8A00][00000A8666440000 52] iPadPro4_129, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8E00][00000A8666445000 52] iPadPro5_129, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6600][00000A8666447800 52] iPadPro6_129, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A6200][00000A866644A000 52] AppleTV, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9000][00000A866644C800 52] AppleTV4K, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7C00][00000A86663F2800 52] AppleTV2_4K, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9400][00000A8666450000 52] TVOS, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AA800][00000A8666457800 52] Mac, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AAA00][00000A8666455000 52] MacEditor, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AA400][00000A866645A000 52] MacClient, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9A00][00000A866645C800 52] MacServer, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9800][00000A8666470000 52] Linux, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AA200][00000A8666472800 52] LinuxEditor, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A2600][00000A8666477800 52] LinuxArm64Editor, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7200][00000A866647A000 52] LinuxArm64, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8600][00000A866647C800 52] LinuxClient, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A4600][00000A8666442800 52] LinuxArm64Client, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AA000][00000A8666475000 52] LinuxServer, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9600][00000A8666460000 52] LinuxArm64Server, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9C00][00000A8666465000 52] Android, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AB000][00000A8666467800 52] Android_Preview_OpenGL, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9200][00000A866646A000 52] Android_Preview_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AB400][00000A866646C800 52] Android_Low, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AB800][00000A8666452800 52] Android_Mid, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ABA00][00000A86663D0000 52] Android_High, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ABE00][00000A86663D5000 52] Android_Default, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A7600][00000A86663D7800 52] Android_Adreno4xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AAE00][00000A86663DA000 52] Android_Adreno5xx_Low, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AC000][00000A86663DC800 52] Android_Adreno5xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A9E00][00000A8666462800 52] Android_Adreno6xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AC400][00000A8666480000 52] Android_Adreno6xx_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AC800][00000A8666485000 52] Android_Adreno7xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ACA00][00000A8666487800 52] Android_Adreno7xx_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ACE00][00000A866648A000 52] Android_Mali_T6xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663A8C00][00000A866648C800 52] Android_Mali_T7xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AA600][00000A86663D2800 52] Android_Mali_T8xx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AD000][00000A8666490000 52] Android_Mali_G71, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ABC00][00000A8666495000 52] Android_Mali_G72, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AD400][00000A8666497800 52] Android_Mali_G72_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AD800][00000A866649A000 52] Android_Mali_G76, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ADA00][00000A866649C800 52] Android_Mali_G76_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ADE00][00000A8666482800 52] Android_Mali_G77, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AB600][00000A86664A0000 52] Android_Mali_G77_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AB200][00000A86664A5000 52] Android_Mali_G78, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AE000][00000A86664A7800 52] Android_Mali_G78_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ACC00][00000A86664AA000 52] Android_Mali_G710, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AE400][00000A86664AC800 52] Android_Mali_G710_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AE800][00000A8666492800 52] Android_Xclipse_920, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AEA00][00000A86664B0000 52] Android_Xclipse_920_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AEE00][00000A86664B5000 52] Android_Vulkan_SM5, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AC600][00000A86664B7800 52] Android_PowerVR_G6xxx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AC200][00000A86664BA000 52] Android_PowerVR_GT7xxx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AF000][00000A86664BC800 52] Android_PowerVR_GE8xxx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AF600][00000A86664A2800 52] Android_PowerVR_GM9xxx, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AF800][00000A86664C0000 52] Android_PowerVR_GM9xxx_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AFE00][00000A86664C5000 52] Android_TegraK1, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663AD200][00000A86664C7800 52] Android_Unknown_Vulkan, 
+[2024.02.19-17.00.37:074][  0]LogDeviceProfileManager: 	[00000A86663ADC00][00000A86664CA000 52] Oculus_Quest, 
+[2024.02.19-17.00.37:075][  0]LogDeviceProfileManager: 	[00000A86649EF400][00000A86664CC800 52] Oculus_Quest2, 
+[2024.02.19-17.00.37:075][  0]LogDeviceProfileManager: 	[00000A86663AE200][00000A86664B2800 52] HoloLens, 
+[2024.02.19-17.00.37:075][  0]LogDeviceProfileManager: Active device profile: [00000A86663A2A00][00000A8654BB0000 52] WindowsEditor
+[2024.02.19-17.00.37:075][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.02.19-17.00.37:075][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.02.19-17.00.37:075][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.19-17.00.37:075][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+[2024.02.19-17.00.37:075][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.19-17.00.37:087][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.02.19-17.00.37:088][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Valid, Allowed_Sdk=r25b, Current_Sdk=r25b, Allowed_AutoSdk=r25b, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
+[2024.02.19-17.00.37:088][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, MinAllowed_Sdk=1100.0.0.0, MaxAllowed_Sdk=1499.0, Current_Sdk=1253.100.28.7, Allowed_AutoSdk=13.3, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.02.19-17.00.37:088][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Allowed_Sdk=v20_clang-13.0.1-centos7, Current_Sdk=, Allowed_AutoSdk=v20_clang-13.0.1-centos7, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2024.02.19-17.00.37:088][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Allowed_Sdk=v20_clang-13.0.1-centos7, Current_Sdk=, Allowed_AutoSdk=v20_clang-13.0.1-centos7, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2024.02.19-17.00.37:088][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.02.19-17.00.37:091][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyReport_1.log" -log="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyLog_1.log" -project="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject"  -Device=Win64@FRANCISCLEGION'
+[2024.02.19-17.00.37:091][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyReport_1.log" -log="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Intermediate/TurnkeyLog_1.log" -project="C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/MastersCoD.uproject"  -Device=Win64@FRANCISCLEGION" -nocompile -nocompileuat ]
+[2024.02.19-17.00.37:180][  0]LogMaterial: Display: WorldGridMaterial-SM6-Default: MATSM_01614A42F67F4FFC8600AD04D15D199F_PCD3D_SM6_2056272690__BC5N_NoCCBN_NoIris_DEV_NoSL_GV_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWDFS_gs1_sdct_VT-0-0-1-0_DF_MS_T0_MS_T1_BNDLS_VED_Aniso-1_ComprOodle_Compr2_Lev6_ExclNonPipSh-1_LWC-2097152_3152175004D223CF754F51059EF2CB96AE54674576_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_5ED0A2783F630BA5CB3EC77766BEDE91B3ED4A5F___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect257D1CFFA384C19C6277438F973730F4E69DB68272C96EE55043153763054472F92891367BC849EC_FLumenCardPS<false>40A6CF59135662D45A14C85193018F1FE4690AC2B4AFBC835B0E8511B596BB98C6C375E96F613E4D_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect257D1CFFA384C19C6277438F973730F4E69DB6825D9003A07122BE7BD2876C98DF8D858F5E00365D_TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnlyEA7DF7F017FA780AA17BAABB644FDB7A7794701DFCFDE4884D635EDF4F18BD3392801DB627240626_FMicropolyRasterizeCSD3BBDF51B194CFF1DAA93B4893D720DEBA595E2F38D66192BF0D34515EC5AD2CDACFA24FFB6B4CAC_FLandscapeGrassWeightVS66D247D797871FB7F8198729C3D0F2027543D93DA469FA5FCF448A131F926D214995E53915A18256_FHWRasterizeVSD3BBDF51B194CFF1DAA93B4893D720DEBA595E2F48C83E6C6E5EB20B8752F7226BE8C1194A6F8F77_FHitProxyVS8E07CA0D3D157EC036C966B4493B3C150D483B0DB282128ADBC0C8F2E22B2C5B575EEDED30A8B7B8_FHitProxyPS58E251447277FAF1969334CA2B52E9E1CEE3708D2A74A59EB00EA821209C26349094BBB03F4D6ED5_FLandscapeGrassWeightPS66D247D797871FB7F8198729C3D0F2027543D93D106C943CF2E5C6D33DAE5FDC4A4E9B8232B7C78A_TBasePassPSFNoLightMapPolicy3959369EEBD575BBD4A2304E59AF01219D7118676C8686026B054D9BD961D4C440F5FDD54CA38C07_FHWRasterizePSD3BBDF51B194CFF1DAA93B4893D720DEBA595E2F48C028453BCF70A104115FCB364BA6A5C3C4AAA0_TShadowDepthVSVertexShadowDepth_OutputDepthEA7DF7F017FA780AA17BAABB644FDB7A7794701D5C128A2F6D1507D174ED09775E1D5BB050F02683_TDepthOnlyVS<true>4EDFE14E825BB78B672C626EB18E16301250DC172A9A9EB6F6AEC78D04ED0798341235919F1C7EA3_FLandscapePhysicalMaterialPSEA1496EA1A8E6C67968E97B198547945EFFA822ABD4AAA5E1E701CB0F79C3E8D450BEF8AC937258A_FLumenCardVS4B7811A52E8EBAE506B38421AEE9DFC7ACF38CBA617646237FDC69FB38D590AA0B687E0FB01A281E_TShadowDepthPSPixelShadowDepth_VirtualShadowMap257D1CFFA384C19C6277438F973730F4E69DB682DFFF0B5EA8BD51A79796C1533647D79F12B2FEBD_FLumenCardPS<true>40A6CF59135662D45A14C85193018F1FE4690AC210BC213CA7B98C6BDB504A3A124DF8170F9D2A6B_FTranslucentLightingInjectPS8958EFD6E4E3B944C8CE989ADD53F81006C358C870CF5C264EEE993F300F770C1E5D8BD55181BC8A_FHWRasterizeMSD3BBDF51B194CFF1DAA93B4893D720DEBA595E2F82A55489FBDC4449CDA421AFD89E7C8F3ED6A32B_FVelocityPS5C457679A5AA5FF9EB14F84287DDD6C154196DE7CC98E6311AC1581B96A09EEE8AE8F6960285B5A2_TShadowDepthVSVertexShadowDepth_PerspectiveCorrectEA7DF7F017FA780AA17BAABB644FDB7A7794701DC004ABA017AA57991204B7B624FFD889C3B24A57_FLandscapePhysicalMaterialVSEA1496EA1A8E6C67968E97B198547945EFFA822ADE0D5BCEA7EC56FCFAF6FE24C7902B1E6C1A2354_TBasePassPSFNoLightMapPolicySkylight3959369EEBD575BBD4A2304E59AF01219D7118673C0FD33120C8575A512698C01E1EBF84CB90BE73_TShadowDepthPSPixelShadowDepth_OnePassPointLight257D1CFFA384C19C6277438F973730F4E69DB6821C20FE0F6421C3566B37C59CBA77F6639400AC09_TShadowDepthVSVertexShadowDepth_PerspectiveCorrectPositionOnlyEA7DF7F017FA780AA17BAABB644FDB7A7794701D860900EDBECB877A088A2E4A829C4D0BA92DB982_TShadowDepthVSVertexShadowDepth_VirtualShadowMapEA7DF7F017FA780AA17BAABB644FDB7A7794701DB4ECC9EA8AA550391078AD8904E08901E177AD2E_TShadowDepthVSVertexShadowDepth_OnePassPointLightEA7DF7F017FA780AA17BAABB644FDB7A7794701D56E359529EA5F920092BA8DF37812C451EC3EEF6_TShadowDepthVSVertexShadowDepth_VirtualShadowMapPositionOnlyEA7DF7F017FA780AA17BAABB644FDB7A7794701D2206E6F09C16C096D9488323D49A0F7639FE2E34_FDebugViewModePS557A39232A68859418654070E1B128D6F27BD0BEE177622259CDB9DC1140CF61335F5353997EC8B6_TDepthOnlyVS<false>2C549569921E9C6C2606E5871D841029C166733CACA14F90957AEBF5BC1C2C3E6DB6BC750BA01CCD_FVelocityVS5C457679A5AA5FF9EB14F84287DDD6C154196DE7C043BB9FD7164B6E8DBD4123FD00693BC9B4513E_FDebugViewModeVSFCDC05C8DF22CAAA5CD64AD073970B60882D6A81809CB80A6A7260721600DBFAB6C1E0001BD9B8AE_TShadowDepthVSVertexShadowDepth_OnePassPointLightPositionOnlyEA7DF7F017FA780AA17BAABB644FDB7A7794701D6EB2AEF0350E0D6AC5867CF6F9990BDA65424641_TBasePassVSFNoLightMapPolicy62257A00396FF92ACE2E0167415BCCC8A6FE86202677AEB94C74F9DCEF44AB17F94D82839B020A23_DepthPosOnlyNoPixelPipeline4EDFE14E825BB78B672C626EB18E16301250DC17_VelocityPipelineBA2E1374D08A004CFE57463AAD99F663FA0E1BC3_DepthNoPixelPipeline2C549569921E9C6C2606E5871D841029C166733C_FGPUSpriteVertexFactoryB023D948191B883949FF744AF068D58B6674E0495C5BE91DA01DC2B25B1018F3EDA7A6FC7D1D30AEB9CA513CCBA4F1E3AF7D9556DD0F2FF45E951E1A_FNiagaraRibbonVertexFactory02111BEB92300CA1083426DF3B5036FB866E6D3DA5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966DE03DD13CEAD2D60503F2AAC85D4762994EF4025A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966_TGPUSkinAPEXClothVertexFactoryDefault78B6E71606342DB0718C0CB5514BFF039A3BFC1D594A4B2FCC58950587792A2CD41332131D3786E2_FParticleSpriteVertexFactory0B9848D46CEFCCD36BD972B3DCD50B8535368BABF99E1B0FB635933CEEAC41CF9441DF5EA4A994CA9DAE5A7C55936FD50BC3B20BD063C1832A4D4247_TGPUSkinVertexFactoryUnlimited78B6E71606342DB0718C0CB5514BFF039A3BFC1D180376A7171B50BD465E9983F32BCB5A07542FE7_FVectorFieldVisualizationVertexFactory29E6C71148328626051CD3685ED4463389FCC050CC854D8E74FEAEF90804D69AF6B78BD07A141ACC_FNiagaraMeshVertexFactoryA62131E57F1F0DEA6AC643E1FFD8ED5397583BD54B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9571BD81B2CBA1F364F28A837532353718EB814537B4B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9574B3A20E0CA93D5CA5A60C16EF2EB14EA073FC957_FParticleBeamTrailVertexFactory713DBD8F3CB30EBEE7F1075062B25AE25537E1D1378BBDDEC2CEAC35A309C357B38D702E7981D5D3_TGPUSkinVertexFactoryDefault78B6E71606342DB0718C0CB5514BFF039A3BFC1D180376A7171B50BD465E9983F32BCB5A07542FE7_TGPUSkinAPEXClothVertexFactoryUnlimited78B6E71606342DB0718C0CB5514BFF039A3BFC1D594A4B2FCC58950587792A2CD41332131D3786E2_FGeometryCollectionVertexFactoryF791AC6341FF97FC6CF0C8483241C9BC3B55570949D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC41_FLandscapeXYOffsetVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F8B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FMeshParticleVertexFactory083F8367142CEF5680A007B3BEFDF4AD3B6626EEF773920348F231C490A74B1A551F8CE3ABF04791_FInstancedStaticMeshVertexFactory3B3DFB1FEDE34A7A85FB5103E7AD47D9FB2DAB05A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8_FSplineMeshVertexFactory3B3DFB1FEDE34A7A85FB5103E7AD47D9FB2DAB05A747D67BD07743C1BEA1DE549F682B82EB7B9965_FLocalVertexFactory3B3DFB1FEDE34A7A85FB5103E7AD47D9FB2DAB05AC1A437FDC42E3432CC66409573A167E09487E70AC1A437FDC42E3432CC66409573A167E09487E70AC1A437FDC42E3432CC66409573A167E09487E70_FLandscapeVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F8B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FNiagaraSpriteVertexFactory983CF9980B73A474E8D7D8E01013CC0E6E16DAAE5957CFEE095AEFFBA7F83F09F020F15CF6555718EFF166204144512228FF7A163011544EEF3FD2265957CFEE095AEFFBA7F83F09F020F15CF65557185957CFEE095AEFFBA7F83F09F020F15CF6555718_Nanite::FVertexFactoryEEE329D9658EB9E906B4A0FBB3766098B69A644B_FGeometryCacheVertexVertexFactory921F6B033EF261C9D21AB065EC0B6C351583BCAA76143182082C57C6F98756E7AE927ED26DD4479A76143182082C57C6F98756E7AE927ED26DD4479A_FLandscapeFixedGridVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F83F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB25351014141444441444144414141414144444740101010101013145444414331440131010204444161512141424044442414141313101434444744342414444444440444444444444444434141414142404444444444444444243414141510101011013131333121333343414142314134204444414141313134304141310101510101010356161613534343414646161616161614612131616160643434343444144444444515151010101131010536161616121000404040404040404040404040404043434343434343444443434343404040404040404343434340404040444442424444444434444442424141214144444442414141434141414141414141413131313131444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441414141414133414424444441414143234141414141314141414241234342414343434143414144414141313131343244414141244141313134444341414121212421213131444212222614114221012121212424444444444041415101510153043410133141400515151516161616161010101010151514012121316161616166112101001471413131314330441010101010101510101010101014314150001010101010101010101010101010101010101160004441404042424313131414401010101010101013101010140121313131416160601616161244431313121212121212121214141414444444444214044441412121212121212121212121212131212121212121212121214121212121212121232441413043131313161616161616161612110434444443414441414141424241412121212121212121212131212121212121212121212121212124244242424343434141444141414141444444444444444441442140231313131313161616161611010101210101010151012004444444440434240444231510140444444444444430331313121433140404040434144433143314443314331434143414331433143314321424131434144111442101314131410151010604444444440444644444404440444510151015101510110101010101010101010101010000140404441404021010101011010101010101040442424140044444444444444444444444444444444444444444444444444444444444444444444444444444044444444443414441414141434240431313121213131222222220101010101011010101010404424241414121010101015101510141010151010100040444444515101010404341404404040404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444434444444444242214141414444444241414143414141414141413131313131414144434444444441414141414141414141414143434344444444444443444044414141414441414141414143414141444141414144444141414131414321444444444141214343414141314141414141224143434241434343414341414441313131313144424441214144313131414444434121212121243131414101015151515151515151515101010101010101010151515151510151015101510151015101010101010101510161616161615101510151015101510151015101313151515151015101015101616144415101016161716161614343101313131313131343242212131414141010101000110000001300000013000000130000001300000013000000130000000C00000013000000130000000D00000008000000140000000F00000010000000080000000900000008000000230000001000000010000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CE0000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000012000000100000000800000008000000080000001400000014000000100000000800000008000000080000000800000008000000080000001300000009000000140000000E00000013000000130000001300000013000000130000001300000008000000100000000900000008000000090000000800000008000000130000000900000008000000090000000800000009000000080000000C00000009000000080000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000130000001000000010000000100000001000000009000000090000000900000010000000100000001000000010000000080000001A00000014000000290000000D000000440000000B0000000B00000013000000130000000900000009000000090000001400000008000000090000000D0000000C00000010000000080000000800000028000000100000001000000010000000100000000900000008000000100000001000000010000000100000001000000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000C00000009000000080000000900000008000000090000000C0000000800000013000000260000000F000000110000000900000009000000090000000900000009000000100000001B0000001300000013000000130000001300000013000000090000000800000009000000080000000800000008000000140000001400000008000000090000000900000008000000080000001000000008000000080000001000000010000000290100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A899000000000000000000000000000000000000000054BDFD528AA46A4E9413E044DCAC9A8F37A07E9D_100_100_4;
+[2024.02.19-17.00.37:218][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.19-17.00.37:218][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.02.19-17.00.37:218][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.19-17.00.37:218][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.19-17.00.37:218][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.19-17.00.37:283][  0]LogNetVersion: MastersCoD 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 1090107696)
+[2024.02.19-17.00.37:530][  0]LogUObjectArray: 20387 objects as part of root set at end of initial load.
+[2024.02.19-17.00.37:530][  0]LogUObjectAllocator: 5549080 out of 0 bytes used by permanent object pool.
+[2024.02.19-17.00.37:530][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.19-17.00.37:549][  0]LogSlate: Border
+[2024.02.19-17.00.37:549][  0]LogSlate: BreadcrumbButton
+[2024.02.19-17.00.37:549][  0]LogSlate: Brushes.Title
+[2024.02.19-17.00.37:549][  0]LogSlate: Default
+[2024.02.19-17.00.37:549][  0]LogSlate: Icons.Save
+[2024.02.19-17.00.37:549][  0]LogSlate: Icons.Toolbar.Settings
+[2024.02.19-17.00.37:549][  0]LogSlate: ListView
+[2024.02.19-17.00.37:549][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.02.19-17.00.37:549][  0]LogSlate: SoftwareCursor_Grab
+[2024.02.19-17.00.37:549][  0]LogSlate: TableView.DarkRow
+[2024.02.19-17.00.37:549][  0]LogSlate: TableView.Row
+[2024.02.19-17.00.37:549][  0]LogSlate: TreeView
+[2024.02.19-17.00.37:833][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.02.19-17.00.38:095][  0]LogTurnkeySupport: Turnkey Device: Win64@FRANCISCLEGION: (Name=FRANCISCLEGION, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2024.02.19-17.00.38:189][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DC0B538C4E9D354BB3CF5483902A5B73 | Instance: CF7BD5954432E67F9417B88A0DF95CB7 (FRANCISCLEGION-25552).
+[2024.02.19-17.00.38:309][  0]LogPython: Using Python 3.9.7
+[2024.02.19-17.00.40:889][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.19-17.00.41:361][  0]LogCollectionManager: Loaded 0 collections in 0.001979 seconds
+[2024.02.19-17.00.41:362][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Collections/' took 0.00s
+[2024.02.19-17.00.41:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Content/Developers/FranciscLegion/Collections/' took 0.00s
+[2024.02.19-17.00.41:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Content/Collections/' took 0.00s
+[2024.02.19-17.00.41:667][  0]LogEngine: Initializing Engine...
+[2024.02.19-17.00.41:679][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.02.19-17.00.41:681][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 839DA34CF46B8889C3F9AE8F4FD9D6C324B4B46A), compiling. Is special engine material.
+[2024.02.19-17.00.41:684][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: AE95F96E52F256824C3B4D45BDFE46FC82CB120D), compiling. Is special engine material.
+[2024.02.19-17.00.41:686][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: E9415DF142FAF80F8647754683E3693BA7D700FF), compiling. Is special engine material.
+[2024.02.19-17.00.41:689][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: FDBADDE2D5EB1714AC61DD27B0EF1C6903B9DEE8), compiling. Is special engine material.
+[2024.02.19-17.00.41:692][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7FC0516D72B7A3EE7B52371E97840F201506705E), compiling. Is special engine material.
+[2024.02.19-17.00.41:694][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: 589352AEB2C4AB9E95B2746CAFDE0E1295D0122B), compiling. Is special engine material.
+[2024.02.19-17.00.41:786][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.19-17.00.41:807][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-17.00.41:834][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.19-17.00.41:835][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.19-17.00.41:835][  0]LogInit: Texture streaming: Enabled
+[2024.02.19-17.00.41:868][  0]LogInit: Using libcurl 7.83.1
+[2024.02.19-17.00.41:868][  0]LogInit:  - built for Windows
+[2024.02.19-17.00.41:868][  0]LogInit:  - supports SSL with OpenSSL/1.1.1n
+[2024.02.19-17.00.41:868][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.12
+[2024.02.19-17.00.41:868][  0]LogInit:  - other features:
+[2024.02.19-17.00.41:868][  0]LogInit:      CURL_VERSION_SSL
+[2024.02.19-17.00.41:868][  0]LogInit:      CURL_VERSION_LIBZ
+[2024.02.19-17.00.41:868][  0]LogInit:      CURL_VERSION_IPV6
+[2024.02.19-17.00.41:868][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2024.02.19-17.00.41:868][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2024.02.19-17.00.41:868][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2024.02.19-17.00.41:868][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2024.02.19-17.00.41:868][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2024.02.19-17.00.41:868][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2024.02.19-17.00.41:868][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2024.02.19-17.00.41:868][  0]LogInit:  - LocalHostAddr = Default
+[2024.02.19-17.00.41:868][  0]LogInit:  - BufferSize = 65536
+[2024.02.19-17.00.41:874][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.1-23901901+++UE5+Release-5.1
+[2024.02.19-17.00.41:885][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.02.19-17.00.41:909][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.02.19-17.00.41:909][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.02.19-17.00.41:909][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.02.19-17.00.41:912][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.02.19-17.00.41:914][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.02.19-17.00.41:914][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.02.19-17.00.41:914][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.02.19-17.00.41:914][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.02.19-17.00.41:915][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.02.19-17.00.41:915][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.19-17.00.41:915][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.19-17.00.41:915][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.19-17.00.41:915][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.19-17.00.41:915][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.19-17.00.41:915][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.19-17.00.41:917][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.19-17.00.41:960][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.19-17.00.41:961][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.19-17.00.41:963][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.19-17.00.41:963][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.19-17.00.41:964][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.02.19-17.00.41:964][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.19-17.00.41:965][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.19-17.00.41:965][  0]LogInit: FAudioDevice initialized.
+[2024.02.19-17.00.41:965][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.02.19-17.00.41:965][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.02.19-17.00.41:984][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.02.19-17.00.41:991][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.02.19-17.00.41:991][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: MyProject2Editor Win64 Development
+[2024.02.19-17.00.41:993][  0]LogLiveCoding: Display: First instance in process group "UE_MastersCoD_0x1e05e83d", spawning console
+[2024.02.19-17.00.41:997][  0]LogLiveCoding: Display: Waiting for server
+[2024.02.19-17.00.42:510][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.02.19-17.00.42:546][  0]LogInit: Transaction tracking system initialized
+[2024.02.19-17.00.42:574][  0]SourceControl: Source control is disabled
+[2024.02.19-17.00.42:636][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/SourceControl/UncontrolledChangelists.json
+[2024.02.19-17.00.42:636][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.02.19-17.00.42:654][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.017991 seconds (Found 267 uncontrolled assets)
+[2024.02.19-17.00.42:681][  0]BlueprintLog: New page: Editor Load
+[2024.02.19-17.00.42:854][  0]LocalizationService: Localization service is disabled
+[2024.02.19-17.00.42:896][  0]TimingProfiler: Initialize
+[2024.02.19-17.00.42:896][  0]TimingProfiler: OnSessionChanged
+[2024.02.19-17.00.42:896][  0]LoadingProfiler: Initialize
+[2024.02.19-17.00.42:896][  0]LoadingProfiler: OnSessionChanged
+[2024.02.19-17.00.42:896][  0]NetworkingProfiler: Initialize
+[2024.02.19-17.00.42:896][  0]NetworkingProfiler: OnSessionChanged
+[2024.02.19-17.00.42:896][  0]MemoryProfiler: Initialize
+[2024.02.19-17.00.42:896][  0]MemoryProfiler: OnSessionChanged
+[2024.02.19-17.00.43:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Content/' took 0.03s
+[2024.02.19-17.00.43:224][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2024.02.19-17.00.43:335][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.02.19-17.00.43:351][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.02.19-17.00.43:353][  0]SourceControl: Source control is disabled
+[2024.02.19-17.00.43:353][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.268
+[2024.02.19-17.00.43:353][  0]Cmd: MAP LOAD FILE="../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.19-17.00.43:353][  0]LightingResults: New page: Lighting Build
+[2024.02.19-17.00.43:359][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-17.00.43:359][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-17.00.43:359][  0]MapCheck: New page: Map Check
+[2024.02.19-17.00.43:359][  0]LightingResults: New page: Lighting Build
+[2024.02.19-17.00.43:366][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.19-17.00.43:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.19-17.00.43:407][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2024.02.19-17.00.43:407][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-17.00.43:407][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.19-17.00.43:408][  0]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.02.19-17.00.43:408][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.19-17.00.43:408][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.19-17.00.44:272][  0]LogLinker: Warning: [AssetLog] C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Content\UIElements\2DTextures\paperAsset_38.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/InterchangeFactoryNodes'
+[2024.02.19-17.00.44:272][  0]LogLinker: Warning: [AssetLog] C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Content\UIElements\2DTextures\paperAsset_38.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/InterchangePipelines'
+[2024.02.19-17.00.44:466][  0]LogEditorDomain: Display: Class /Script/InterchangeFactoryNodes.InterchangeTexture2DFactoryNode is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2024.02.19-17.00.44:466][  0]LogEditorDomain: Display: Class /Script/InterchangePipelines.InterchangeGenericTexturePipeline is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2024.02.19-17.00.44:546][  0]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2024.02.19-17.00.44:546][  0]LogWorldPartition: Display: WorldPartition initialize took 1.13 sec
+[2024.02.19-17.00.44:576][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.19-17.00.44:591][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.19-17.00.44:591][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.19-17.00.44:592][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.84ms to complete.
+[2024.02.19-17.00.44:592][  0]LogFileHelpers: Loading map 'TopDownMap' took 1.239
+[2024.02.19-17.00.44:603][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.518
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: ================================================
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.19-17.00.44:603][  0]LogShaderCompilers: Display: ================================================
+[2024.02.19-17.00.44:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-17.00.44:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-17.00.44:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-17.00.44:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-17.00.44:765][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:766][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:766][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:767][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:767][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:768][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:768][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:769][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:769][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:770][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.02.19-17.00.44:887][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.19-17.00.44:890][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.19-17.00.44:891][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.19-17.00.44:906][  0]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2024.02.19-17.00.44:929][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.19-17.00.45:250][  0]LogStall: Startup...
+[2024.02.19-17.00.45:252][  0]LogStall: Startup complete.
+[2024.02.19-17.00.45:261][  0]LogLoad: (Engine Initialization) Total time: 11.18 seconds
+[2024.02.19-17.00.45:261][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.19-17.00.45:304][  0]LogAssetRegistry: Asset discovery search completed in 8.7433 seconds
+[2024.02.19-17.00.45:314][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2024.02.19-17.00.45:322][  0]LogNiagara: Compiling System NiagaraSystem /Game/LevelsParameters/Storing/VFX/StoringSystem.StoringSystem took 4.561409 sec, no shader worker used.
+[2024.02.19-17.00.45:325][  0]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 4.501421 sec, no shader worker used.
+[2024.02.19-17.00.45:326][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.19-17.00.47:637][  8]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.19-17.01.01:535][324]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.19-17.02.15:457][733]LogSlate: Took 0.001340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.02.19-17.02.16:704][877]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.02.19-17.02.16:704][877]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.02.19-17.03.19:737][660]LogDerivedDataCache: C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.282 and deleted 0 files with total size 0 MiB. Scanned 23119 files in 22439 folders with total size 1019 MiB.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Basics/ViewportsTutorial.ViewportsTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Basics/LevelEditorOverview.LevelEditorOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Basics/LevelEditorAttract.LevelEditorAttract_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Basics/FeaturePacks.FeaturePacks_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Basics/ContentBrowserOverview.ContentBrowserOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.ClassBlueprintsEditorOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.BlueprintMacroLibrariesEditorOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.BlueprintInterfacesEditorOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.BlueprintEditorTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.Tutorial_BP_MacroLib_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Code/AddingCode.AddingCode_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.Foliage_Using_The_Tool_Tutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Foliage/Foliage_Settings_Tutorial.Foliage_Settings_Tutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Foliage/Foliage_Intro_Tutorial.Foliage_Intro_Tutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Foliage/FoliageWalkThrough.FoliageWalkThrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Installation/InstallingXCodeTutorial.InstallingXCodeTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.IWBE_Tutorial_Part3_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.IWBE_Tutorial_Part2_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.IWBE_Tutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.IWBE_Bridge2_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.IWBE_Bridge1_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Landscape/Landscape_Manage_Mode.Landscape_Manage_Mode_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Landscape/LandscapeWalkThrough.LandscapeWalkThrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Mobile/SettingUpLuminTutorial.SettingUpLuminTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Mobile/SettingUpAndroidTutorial.SettingUpAndroidTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Mobile/InstallingiTunesTutorial.InstallingiTunesTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/StaticMeshEditorTutorial.StaticMeshEditorTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/SkeletonModeWalkthrough.SkeletonModeWalkthrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.SkeletalMeshEditorWalkthrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/PersonaWalkthrough.PersonaWalkthrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.PersonaAnimEditorWalkthrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.PersonaAnimBlueprintEditorWalkthrough_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial.ParticleSystemEditorTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/MaterialEditorTutorial.MaterialEditorTutorial_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:680][110]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/GettingSubstance.GettingSubstance_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:681][110]LogEditorClassViewer: Warning: Class /Game/Animation/Monkey/ABP_Monkey.ABP_Monkey_C has parent /Script/MyProject2.MonkeyAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:681][110]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:681][110]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:681][110]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.19-17.03.41:744][110]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.19-17.03.45:411][459]LogContentBrowser: Verbose: The majority of assets in the view are of type: PackageChunk.PackageChunk
+[2024.02.19-17.03.49:345][829]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.19-17.03.49:351][829]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.19-17.03.50:976][983]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957457380
+[2024.02.19-17.03.50:976][983]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.03.53:557][168]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 185
+[2024.02.19-17.03.53:557][168]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.03.53:558][168]LogSlate: Warning: Setting the threshold to trigger a flush to 4 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.03.53:559][168]LogSlate: Warning: Setting the threshold to trigger a flush to 5 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.03.53:560][168]LogSlate: Warning: Setting the threshold to trigger a flush to 6 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.03.53:561][168]LogSlate: Warning: Setting the threshold to trigger a flush to 7 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.03.53:562][168]LogSlate: Warning: Setting the threshold to trigger a flush to 8 non-atlased textures as there is a lot of font data being cached.
+[2024.02.19-17.04.24:672][115]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.19-17.04.24:686][115]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: ================================================
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: Total job queries 429, among them cache hits 36 (8.39%)
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: Tracking 393 distinct input hashes that result in 137 distinct outputs (34.86%)
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: RAM used: 2.53 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.19-17.04.28:304][339]LogShaderCompilers: Display: ================================================
+[2024.02.19-17.04.29:292][371]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.1\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	SceneTexture expressions cannot be used in opaque materials except if used with the Single Layer Water shading model.
+
+[2024.02.19-17.04.44:708][ 30]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'PropertyEditor.AddColumnMessage.ColorAndOpacity'.'
+[2024.02.19-17.04.50:317][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/BaseFlattenDiffuseMap.BaseFlattenDiffuseMap (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:322][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/BaseFlattenGrayscaleMap.BaseFlattenGrayScaleMap (G8, 32x32 x1x1x1) (Required Memory Estimate: 0.088536 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:324][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/BaseFlattenLinearColor.BaseFlattenLinearColor (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:326][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/BaseFlattenNormalMap.BaseFlattenNormalMap (BGRA8, 1x1 x1x1x1) (Required Memory Estimate: 0.062523 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:329][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT (RGBA16F, 1x1 x1x1x1) (Required Memory Estimate: 0.062531 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:338][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/BlueNoise.BlueNoise (RGBA16F, 256x1792 x1x1x1) (Required Memory Estimate: 17.562492 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:340][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultBokeh.DefaultBokeh (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:346][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultCalibrationGrayscale.DefaultCalibrationGrayscale (BGRA8, 1920x1080 x1x1x1) (Required Memory Estimate: 54.774414 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:355][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultDiffuse_TC_Masks.DefaultDiffuse_TC_Masks (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:360][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultCalibrationColor.DefaultCalibrationColor (BGRA8, 1920x1080 x1x1x1) (Required Memory Estimate: 60.707031 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:365][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultNormal_Uncompressed.DefaultNormal_Uncompressed (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:372][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:376][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultBloomKernel.DefaultBloomKernel (RGBA16F, 2048x2048 x1x1x1) (Required Memory Estimate: 160.062492 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:383][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefCube_Face.DefCube_Face (BGRA8, 8x8 x1x1x1) (Required Memory Estimate: 0.064365 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:384][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:391][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/FlatNormal.FlatNormal (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 0.069981 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:397][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultNormal.DefaultNormal (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:410][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/Grid.Grid (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:413][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/HairColorMap.HairColorMap (BGRA8, 843x5 x1x1x1) (Required Memory Estimate: 0.185772 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:413][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/Grid_N.Grid_N (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:415][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/HairDebugColor.HairDebugColor (BGRA8, 255x1 x1x1x1) (Required Memory Estimate: 0.069958 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:421][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:427][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/MiniFont.MiniFont (BGRA8, 512x8 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:427][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/OrientParticle.OrientParticle (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:429][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/RandomAngles.RandomAngles (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:429][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/RandomMirrorDisc.RandomMirrorDisc (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:429][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/RandomNormal2.RandomNormal2 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:429][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/RandomVectors_WithXNeighbor.RandomVectors_WithXNeighbor (BGRA8, 32x1 x1x1x1) (Required Memory Estimate: 0.063423 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:430][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/SoundCue_SpeakerIcon.SoundCue_SpeakerIcon (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:433][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 1.97916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:435][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:435][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/PaperDiffuse.PaperDiffuse (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:436][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg.T_SphereShadow_RGBA_5-15-30-60deg (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 1.97916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:438][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/STBlueNoise_scalar_128x128x64.STBlueNoise_scalar_128x128x64 (G8, 128x8192 x1x1x1) (Required Memory Estimate: 23.729161 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:440][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/PaperNormal.PaperNormal (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:446][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture (BGRA8, 2x2 x1x1x1) (Required Memory Estimate: 0.062611 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:457][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/STBlueNoise_vec2_128x128x64.STBlueNoise_vec2_128x128x64 (BGRA8, 128x8192 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:538][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_DefaultTexture2_D.T_DefaultTexture2_D (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:548][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_BaseColor.T_Default_BaseColor (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:595][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_Normal.T_Default_Normal (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.50:618][179]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_MacroVariation.T_Default_MacroVariation (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.02.19-17.04.51:702][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.19-17.04.51:800][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Anchor" FILE="../../../Engine/Content/EngineMaterials/Anchor.uasset" SILENT=true
+[2024.02.19-17.04.51:807][213]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.006868 seconds
+[2024.02.19-17.04.51:808][213]LogSerialization: UsePackageTrailer: 'true'
+[2024.02.19-17.04.51:808][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Anchor
+[2024.02.19-17.04.51:809][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Anchor0436F25B4FC0D7746C88C3900FFC48D3.tmp' to '../../../Engine/Content/EngineMaterials/Anchor.uasset'
+[2024.02.19-17.04.51:811][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenDiffuseMap" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" SILENT=true
+[2024.02.19-17.04.51:812][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenDiffuseMap
+[2024.02.19-17.04.51:813][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenDiffuseMap3392D5C4401F74D1243DA59DDFFE59E5.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset'
+[2024.02.19-17.04.51:815][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" SILENT=true
+[2024.02.19-17.04.51:817][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT
+[2024.02.19-17.04.51:817][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenDiffuseMap_VTFCEE296A43BEF300B577C9B678C259B7.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset'
+[2024.02.19-17.04.51:819][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenEmissiveMap" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" SILENT=true
+[2024.02.19-17.04.51:821][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenEmissiveMap
+[2024.02.19-17.04.51:821][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenEmissiveMap38874DE645DFA31626E038AB0667D595.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset'
+[2024.02.19-17.04.51:824][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" SILENT=true
+[2024.02.19-17.04.51:825][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT
+[2024.02.19-17.04.51:826][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenEmissiveMap_VT149254FC4815176C5BD7298F47E3895C.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset'
+[2024.02.19-17.04.51:828][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenGrayscaleMap" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" SILENT=true
+[2024.02.19-17.04.51:829][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenGrayscaleMap
+[2024.02.19-17.04.51:830][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenGrayscaleMap912701DD46B213DEA978D08839467F29.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset'
+[2024.02.19-17.04.51:833][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" SILENT=true
+[2024.02.19-17.04.51:834][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT
+[2024.02.19-17.04.51:835][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenGrayscaleMap_VT5BA047A047EADDFE26AE5E941FF76F7D.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset'
+[2024.02.19-17.04.51:837][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenLinearColor" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" SILENT=true
+[2024.02.19-17.04.51:838][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenLinearColor
+[2024.02.19-17.04.51:839][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenLinearColorF4CAC65D4C9CE4D031E564A5CA473493.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset'
+[2024.02.19-17.04.51:841][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenLinearColor_VT" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" SILENT=true
+[2024.02.19-17.04.51:843][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenLinearColor_VT
+[2024.02.19-17.04.51:843][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenLinearColor_VTD86964E34FF90919E8D656993B80A3E5.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset'
+[2024.02.19-17.04.51:846][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenNormalMap" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" SILENT=true
+[2024.02.19-17.04.51:847][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenNormalMap
+[2024.02.19-17.04.51:848][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenNormalMap157C0909415A35DFD1BB77900870D4D6.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset'
+[2024.02.19-17.04.51:850][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BaseFlattenNormalMap_VT" FILE="../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" SILENT=true
+[2024.02.19-17.04.51:852][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BaseFlattenNormalMap_VT
+[2024.02.19-17.04.51:852][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BaseFlattenNormalMap_VT5E0AB187402CAB89D89BEA900D5A08A1.tmp' to '../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset'
+[2024.02.19-17.04.51:855][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT" FILE="../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" SILENT=true
+[2024.02.19-17.04.51:856][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT
+[2024.02.19-17.04.51:856][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Black_1x1_EXR_Texture_VT369953CB469B6CCD0033A88EF298DCED.tmp' to '../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset'
+[2024.02.19-17.04.51:859][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BlendFunc_DefBase" FILE="../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" SILENT=true
+[2024.02.19-17.04.51:860][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BlendFunc_DefBase
+[2024.02.19-17.04.51:861][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BlendFunc_DefBaseA73599F3409FD9091248E2840C31976E.tmp' to '../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset'
+[2024.02.19-17.04.51:863][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BlendFunc_DefBlend" FILE="../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" SILENT=true
+[2024.02.19-17.04.51:865][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BlendFunc_DefBlend
+[2024.02.19-17.04.51:865][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BlendFunc_DefBlendE5168D104E578884D8437792AA63A19A.tmp' to '../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset'
+[2024.02.19-17.04.51:868][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BlueNoise" FILE="../../../Engine/Content/EngineMaterials/BlueNoise.uasset" SILENT=true
+[2024.02.19-17.04.51:883][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/BlueNoise
+[2024.02.19-17.04.51:884][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/BlueNoiseF4D11B7743149543B54D978F5E714AD4.tmp' to '../../../Engine/Content/EngineMaterials/BlueNoise.uasset'
+[2024.02.19-17.04.51:886][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/CASC_Curve_2" FILE="../../../Engine/Content/EngineMaterials/CASC_Curve_2.uasset" SILENT=true
+[2024.02.19-17.04.51:888][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/CASC_Curve_2
+[2024.02.19-17.04.51:888][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/CASC_Curve_2564B17CF44A2BBE92C87A8A3F42C900F.tmp' to '../../../Engine/Content/EngineMaterials/CASC_Curve_2.uasset'
+[2024.02.19-17.04.51:891][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/CASC_ModuleEnab_2" FILE="../../../Engine/Content/EngineMaterials/CASC_ModuleEnab_2.uasset" SILENT=true
+[2024.02.19-17.04.51:892][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/CASC_ModuleEnab_2
+[2024.02.19-17.04.51:892][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/CASC_ModuleEnab_2E21B12E34462F293CDF2EAA9CF6E9E0D.tmp' to '../../../Engine/Content/EngineMaterials/CASC_ModuleEnab_2.uasset'
+[2024.02.19-17.04.51:895][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Cross" FILE="../../../Engine/Content/EngineMaterials/Cross.uasset" SILENT=true
+[2024.02.19-17.04.51:896][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Cross
+[2024.02.19-17.04.51:897][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Cross23146BD1439845448C8FD7A9548F4679.tmp' to '../../../Engine/Content/EngineMaterials/Cross.uasset'
+[2024.02.19-17.04.51:899][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultBloomKernel" FILE="../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" SILENT=true
+[2024.02.19-17.04.51:942][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultBloomKernel
+[2024.02.19-17.04.51:943][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultBloomKernel60231CDA4F65B308C7AA168FF1FDBE37.tmp' to '../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset'
+[2024.02.19-17.04.51:948][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultBokeh" FILE="../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" SILENT=true
+[2024.02.19-17.04.51:950][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultBokeh
+[2024.02.19-17.04.51:951][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultBokeh89E33CDC491EA985C091909568E4BA04.tmp' to '../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset'
+[2024.02.19-17.04.51:953][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultBokeh_Low" FILE="../../../Engine/Content/EngineMaterials/DefaultBokeh_Low.uasset" SILENT=true
+[2024.02.19-17.04.51:954][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultBokeh_Low
+[2024.02.19-17.04.51:955][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultBokeh_Low5449E0564682E4DE9D8C7E9025EFE38D.tmp' to '../../../Engine/Content/EngineMaterials/DefaultBokeh_Low.uasset'
+[2024.02.19-17.04.51:957][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultCalibrationColor" FILE="../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" SILENT=true
+[2024.02.19-17.04.51:959][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultCalibrationColor
+[2024.02.19-17.04.51:959][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultCalibrationColor1C5614FC4DF01774FEB97E8C25A4D4F8.tmp' to '../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset'
+[2024.02.19-17.04.51:962][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultCalibrationGrayscale" FILE="../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" SILENT=true
+[2024.02.19-17.04.51:963][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultCalibrationGrayscale
+[2024.02.19-17.04.51:964][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultCalibrationGrayscale503F6FBD44F07E737681BCB85809CB7B.tmp' to '../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset'
+[2024.02.19-17.04.51:967][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultDiffuse" FILE="../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" SILENT=true
+[2024.02.19-17.04.51:977][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultDiffuse
+[2024.02.19-17.04.51:978][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultDiffuse413647CA43F9B53B53BE5F90C479685F.tmp' to '../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset'
+[2024.02.19-17.04.51:981][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultDiffuse_Low" FILE="../../../Engine/Content/EngineMaterials/DefaultDiffuse_Low.uasset" SILENT=true
+[2024.02.19-17.04.51:990][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultDiffuse_Low
+[2024.02.19-17.04.51:991][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultDiffuse_LowB342A51548CA6678095CA9A6450B11A8.tmp' to '../../../Engine/Content/EngineMaterials/DefaultDiffuse_Low.uasset'
+[2024.02.19-17.04.51:994][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultDiffuse_TC_Masks" FILE="../../../Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uasset" SILENT=true
+[2024.02.19-17.04.51:995][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultDiffuse_TC_Masks
+[2024.02.19-17.04.51:996][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultDiffuse_TC_Masks8400ADF24C165680A8CA8F880F1EEF04.tmp' to '../../../Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uasset'
+[2024.02.19-17.04.51:998][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultNormal" FILE="../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" SILENT=true
+[2024.02.19-17.04.52:009][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultNormal
+[2024.02.19-17.04.52:010][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultNormalDDC26AA64DD35DE2FD67B4872625AA66.tmp' to '../../../Engine/Content/EngineMaterials/DefaultNormal.uasset'
+[2024.02.19-17.04.52:012][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultNormal_Uncompressed" FILE="../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" SILENT=true
+[2024.02.19-17.04.52:014][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultNormal_Uncompressed
+[2024.02.19-17.04.52:014][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultNormal_UncompressedAA4BF61F47BD2A4A08A3C8870418F22B.tmp' to '../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset'
+[2024.02.19-17.04.52:017][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultWhiteGrid" FILE="../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" SILENT=true
+[2024.02.19-17.04.52:018][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultWhiteGrid
+[2024.02.19-17.04.52:019][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultWhiteGrid6542C38640015DDD1D62A2ABB3A61601.tmp' to '../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset'
+[2024.02.19-17.04.52:022][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultWhiteGrid_Low" FILE="../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" SILENT=true
+[2024.02.19-17.04.52:023][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultWhiteGrid_Low
+[2024.02.19-17.04.52:023][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefaultWhiteGrid_LowAE0C9645410C956886D7239952A8D8A8.tmp' to '../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset'
+[2024.02.19-17.04.52:026][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefCube_Face" FILE="../../../Engine/Content/EngineMaterials/DefCube_Face.uasset" SILENT=true
+[2024.02.19-17.04.52:027][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefCube_Face
+[2024.02.19-17.04.52:028][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/DefCube_Face52053DD948C4653B63EAC3B1CA6BF386.tmp' to '../../../Engine/Content/EngineMaterials/DefCube_Face.uasset'
+[2024.02.19-17.04.52:030][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/FlatNormal" FILE="../../../Engine/Content/EngineMaterials/FlatNormal.uasset" SILENT=true
+[2024.02.19-17.04.52:032][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/FlatNormal
+[2024.02.19-17.04.52:032][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/FlatNormalB64F993D4CA561841F1C9E8312F41F6B.tmp' to '../../../Engine/Content/EngineMaterials/FlatNormal.uasset'
+[2024.02.19-17.04.52:035][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq" FILE="../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" SILENT=true
+[2024.02.19-17.04.52:036][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Good64x64TilingNoiseHighFreq
+[2024.02.19-17.04.52:037][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Good64x64TilingNoiseHighFreq85512B61470DA4AF33076C96A9180149.tmp' to '../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset'
+[2024.02.19-17.04.52:040][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq_Low" FILE="../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq_Low.uasset" SILENT=true
+[2024.02.19-17.04.52:041][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Good64x64TilingNoiseHighFreq_Low
+[2024.02.19-17.04.52:042][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Good64x64TilingNoiseHighFreq_LowC6E5C2A143046B43126935B9A8A393F6.tmp' to '../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq_Low.uasset'
+[2024.02.19-17.04.52:045][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/GreyCheck" FILE="../../../Engine/Content/EngineMaterials/GreyCheck.uasset" SILENT=true
+[2024.02.19-17.04.52:046][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/GreyCheck
+[2024.02.19-17.04.52:047][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/GreyCheck434311F648D0B8CB3748A293535BC36B.tmp' to '../../../Engine/Content/EngineMaterials/GreyCheck.uasset'
+[2024.02.19-17.04.52:049][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Grid" FILE="../../../Engine/Content/EngineMaterials/Grid.uasset" SILENT=true
+[2024.02.19-17.04.52:050][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Grid
+[2024.02.19-17.04.52:051][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Grid3BDEC5A94B543E851418CCBAADAAA9E8.tmp' to '../../../Engine/Content/EngineMaterials/Grid.uasset'
+[2024.02.19-17.04.52:054][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Grid_N" FILE="../../../Engine/Content/EngineMaterials/Grid_N.uasset" SILENT=true
+[2024.02.19-17.04.52:055][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Grid_N
+[2024.02.19-17.04.52:056][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Grid_NDEAF2C364B50140ECC03B3B01A92441E.tmp' to '../../../Engine/Content/EngineMaterials/Grid_N.uasset'
+[2024.02.19-17.04.52:058][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/HairColorMap" FILE="../../../Engine/Content/EngineMaterials/HairColorMap.uasset" SILENT=true
+[2024.02.19-17.04.52:059][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/HairColorMap
+[2024.02.19-17.04.52:060][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/HairColorMap87CCDFD24EE183158E34159597C9C956.tmp' to '../../../Engine/Content/EngineMaterials/HairColorMap.uasset'
+[2024.02.19-17.04.52:063][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/HairDebugColor" FILE="../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" SILENT=true
+[2024.02.19-17.04.52:064][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/HairDebugColor
+[2024.02.19-17.04.52:065][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/HairDebugColorCA09B0E74C6ABCA5B867B7B2DFE26CE7.tmp' to '../../../Engine/Content/EngineMaterials/HairDebugColor.uasset'
+[2024.02.19-17.04.52:067][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/InvalidLightmapSettings" FILE="../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" SILENT=true
+[2024.02.19-17.04.52:069][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/InvalidLightmapSettings
+[2024.02.19-17.04.52:069][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/InvalidLightmapSettingsFA3BA8DD471EDA788AAB3EBCC96975D7.tmp' to '../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset'
+[2024.02.19-17.04.52:072][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/InvalidLightmapSettings_Low" FILE="../../../Engine/Content/EngineMaterials/InvalidLightmapSettings_Low.uasset" SILENT=true
+[2024.02.19-17.04.52:073][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/InvalidLightmapSettings_Low
+[2024.02.19-17.04.52:074][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/InvalidLightmapSettings_Low389F347247A6D5651B6D39AC356891D1.tmp' to '../../../Engine/Content/EngineMaterials/InvalidLightmapSettings_Low.uasset'
+[2024.02.19-17.04.52:077][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/MAT_Groups_ParticleReplay" FILE="../../../Engine/Content/EngineMaterials/MAT_Groups_ParticleReplay.uasset" SILENT=true
+[2024.02.19-17.04.52:078][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/MAT_Groups_ParticleReplay
+[2024.02.19-17.04.52:079][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/MAT_Groups_ParticleReplay73F998F344D84EB08AD419B2FDA954B2.tmp' to '../../../Engine/Content/EngineMaterials/MAT_Groups_ParticleReplay.uasset'
+[2024.02.19-17.04.52:098][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/MAT_Groups_Toggle" FILE="../../../Engine/Content/EngineMaterials/MAT_Groups_Toggle.uasset" SILENT=true
+[2024.02.19-17.04.52:100][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/MAT_Groups_Toggle
+[2024.02.19-17.04.52:100][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/MAT_Groups_Toggle7766DEA048C6247342AD6EBF5362A0A6.tmp' to '../../../Engine/Content/EngineMaterials/MAT_Groups_Toggle.uasset'
+[2024.02.19-17.04.52:103][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/MAT_Groups_Visibility" FILE="../../../Engine/Content/EngineMaterials/MAT_Groups_Visibility.uasset" SILENT=true
+[2024.02.19-17.04.52:104][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/MAT_Groups_Visibility
+[2024.02.19-17.04.52:105][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/MAT_Groups_Visibility1A2960CA42B4FD2FD6EE5CB8C9A3B334.tmp' to '../../../Engine/Content/EngineMaterials/MAT_Groups_Visibility.uasset'
+[2024.02.19-17.04.52:107][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/MatineeGreyGrad" FILE="../../../Engine/Content/EngineMaterials/MatineeGreyGrad.uasset" SILENT=true
+[2024.02.19-17.04.52:109][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/MatineeGreyGrad
+[2024.02.19-17.04.52:109][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/MatineeGreyGrad470E56F44843DC6ABA8282A9248F239B.tmp' to '../../../Engine/Content/EngineMaterials/MatineeGreyGrad.uasset'
+[2024.02.19-17.04.52:112][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/MiniFont" FILE="../../../Engine/Content/EngineMaterials/MiniFont.uasset" SILENT=true
+[2024.02.19-17.04.52:113][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/MiniFont
+[2024.02.19-17.04.52:114][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/MiniFontC3343EF646878AFC9CB550810588C53B.tmp' to '../../../Engine/Content/EngineMaterials/MiniFont.uasset'
+[2024.02.19-17.04.52:116][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/OrientParticle" FILE="../../../Engine/Content/EngineMaterials/OrientParticle.uasset" SILENT=true
+[2024.02.19-17.04.52:117][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/OrientParticle
+[2024.02.19-17.04.52:118][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/OrientParticle3F6C48A7484DA79D9E9AAAB310DC8A61.tmp' to '../../../Engine/Content/EngineMaterials/OrientParticle.uasset'
+[2024.02.19-17.04.52:121][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PaperDiffuse" FILE="../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" SILENT=true
+[2024.02.19-17.04.52:126][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/PaperDiffuse
+[2024.02.19-17.04.52:126][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/PaperDiffuse4A647CE74E90BE03AE976395595CA0B7.tmp' to '../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset'
+[2024.02.19-17.04.52:129][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PaperNormal" FILE="../../../Engine/Content/EngineMaterials/PaperNormal.uasset" SILENT=true
+[2024.02.19-17.04.52:134][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/PaperNormal
+[2024.02.19-17.04.52:135][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/PaperNormalCF4D431545237F3C494E46833906CE87.tmp' to '../../../Engine/Content/EngineMaterials/PaperNormal.uasset'
+[2024.02.19-17.04.52:137][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PreintegratedSkinBRDF" FILE="../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" SILENT=true
+[2024.02.19-17.04.52:140][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/PreintegratedSkinBRDF
+[2024.02.19-17.04.52:141][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/PreintegratedSkinBRDF03BEDDFB4477196438AC77B1085A6D10.tmp' to '../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset'
+[2024.02.19-17.04.52:143][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PreintegratedSkinBRDF_Low" FILE="../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF_Low.uasset" SILENT=true
+[2024.02.19-17.04.52:145][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/PreintegratedSkinBRDF_Low
+[2024.02.19-17.04.52:145][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/PreintegratedSkinBRDF_Low73609D7349EE7DBAD94C24B57F3FBAE1.tmp' to '../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF_Low.uasset'
+[2024.02.19-17.04.52:148][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/PreviewShadowIndicator" FILE="../../../Engine/Content/EngineMaterials/PreviewShadowIndicator.uasset" SILENT=true
+[2024.02.19-17.04.52:149][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/PreviewShadowIndicator
+[2024.02.19-17.04.52:150][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/PreviewShadowIndicator6BFB81FC43038FAAF91EDD96503357FA.tmp' to '../../../Engine/Content/EngineMaterials/PreviewShadowIndicator.uasset'
+[2024.02.19-17.04.52:152][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/RandomAngles" FILE="../../../Engine/Content/EngineMaterials/RandomAngles.uasset" SILENT=true
+[2024.02.19-17.04.52:153][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/RandomAngles
+[2024.02.19-17.04.52:154][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/RandomAngles261D5F33479673CB3B9C159419FA4B06.tmp' to '../../../Engine/Content/EngineMaterials/RandomAngles.uasset'
+[2024.02.19-17.04.52:157][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/RandomMirrorDisc" FILE="../../../Engine/Content/EngineMaterials/RandomMirrorDisc.uasset" SILENT=true
+[2024.02.19-17.04.52:158][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/RandomMirrorDisc
+[2024.02.19-17.04.52:159][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/RandomMirrorDisc279464ED464317B0DA4BE2A70971230E.tmp' to '../../../Engine/Content/EngineMaterials/RandomMirrorDisc.uasset'
+[2024.02.19-17.04.52:161][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/RandomNormal2" FILE="../../../Engine/Content/EngineMaterials/RandomNormal2.uasset" SILENT=true
+[2024.02.19-17.04.52:163][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/RandomNormal2
+[2024.02.19-17.04.52:163][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/RandomNormal2FA8AEACA4017C197C95CC0ABE60A0DE2.tmp' to '../../../Engine/Content/EngineMaterials/RandomNormal2.uasset'
+[2024.02.19-17.04.52:165][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/RandomVectors_WithXNeighbor" FILE="../../../Engine/Content/EngineMaterials/RandomVectors_WithXNeighbor.uasset" SILENT=true
+[2024.02.19-17.04.52:167][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/RandomVectors_WithXNeighbor
+[2024.02.19-17.04.52:167][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/RandomVectors_WithXNeighbor9A8E556B454180109787399984A4DE0E.tmp' to '../../../Engine/Content/EngineMaterials/RandomVectors_WithXNeighbor.uasset'
+[2024.02.19-17.04.52:170][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/SoundCue_SpeakerIcon" FILE="../../../Engine/Content/EngineMaterials/SoundCue_SpeakerIcon.uasset" SILENT=true
+[2024.02.19-17.04.52:171][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/SoundCue_SpeakerIcon
+[2024.02.19-17.04.52:172][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/SoundCue_SpeakerIcon365B3D1D4CD35B5CE7A87787F37BD0B6.tmp' to '../../../Engine/Content/EngineMaterials/SoundCue_SpeakerIcon.uasset'
+[2024.02.19-17.04.52:174][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/STBlueNoise_scalar_128x128x64" FILE="../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" SILENT=true
+[2024.02.19-17.04.52:180][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/STBlueNoise_scalar_128x128x64
+[2024.02.19-17.04.52:181][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/STBlueNoise_scalar_128x128x644741B827458DDD60105E63996D24C43E.tmp' to '../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset'
+[2024.02.19-17.04.52:184][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/STBlueNoise_vec2_128x128x64" FILE="../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" SILENT=true
+[2024.02.19-17.04.52:204][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/STBlueNoise_vec2_128x128x64
+[2024.02.19-17.04.52:205][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/STBlueNoise_vec2_128x128x6468E58CC44FCDC52E83A3D991313665A7.tmp' to '../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset'
+[2024.02.19-17.04.52:208][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_1x1_Grid" FILE="../../../Engine/Content/EngineMaterials/T_1x1_Grid.uasset" SILENT=true
+[2024.02.19-17.04.52:209][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_1x1_Grid
+[2024.02.19-17.04.52:210][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_1x1_GridBF42E638426A83A81A56CA81F108D9A9.tmp' to '../../../Engine/Content/EngineMaterials/T_1x1_Grid.uasset'
+[2024.02.19-17.04.52:212][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_BaseColor" FILE="../../../Engine/Content/EngineMaterials/T_Default_BaseColor.uasset" SILENT=true
+[2024.02.19-17.04.52:239][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_BaseColor
+[2024.02.19-17.04.52:239][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_BaseColor04065E21477D2AEBCA3BF3AA388916A8.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_BaseColor.uasset'
+[2024.02.19-17.04.52:249][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_MacroVariation" FILE="../../../Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset" SILENT=true
+[2024.02.19-17.04.52:291][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_MacroVariation
+[2024.02.19-17.04.52:292][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_MacroVariationA35340AD4EE8CE464DA302B79B94BC17.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset'
+[2024.02.19-17.04.52:295][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_Material_Grid_M" FILE="../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" SILENT=true
+[2024.02.19-17.04.52:298][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_Material_Grid_M
+[2024.02.19-17.04.52:298][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_Material_Grid_M9A2C557247C41F3724712980BD0B355D.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset'
+[2024.02.19-17.04.52:301][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_Material_Grid_M_Low" FILE="../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M_Low.uasset" SILENT=true
+[2024.02.19-17.04.52:304][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_Material_Grid_M_Low
+[2024.02.19-17.04.52:305][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_Material_Grid_M_LowD03AD230442B5D269E0F45956A46EEAC.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M_Low.uasset'
+[2024.02.19-17.04.52:307][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_Material_Grid_N" FILE="../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" SILENT=true
+[2024.02.19-17.04.52:308][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_Material_Grid_N
+[2024.02.19-17.04.52:309][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_Material_Grid_N8E1653D3444E1C82C9145C9E2BF6A982.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset'
+[2024.02.19-17.04.52:311][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_Material_Grid_N_Low" FILE="../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N_Low.uasset" SILENT=true
+[2024.02.19-17.04.52:313][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_Material_Grid_N_Low
+[2024.02.19-17.04.52:313][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_Material_Grid_N_LowF0DA0D8B4D623280AB42E2913F1E74BB.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N_Low.uasset'
+[2024.02.19-17.04.52:316][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_Default_Normal" FILE="../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" SILENT=true
+[2024.02.19-17.04.52:336][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_Default_Normal
+[2024.02.19-17.04.52:337][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_Default_Normal8EE929744A7B06C32CDCDEADA5569218.tmp' to '../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset'
+[2024.02.19-17.04.52:342][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_DefaultTexture2_D" FILE="../../../Engine/Content/EngineMaterials/T_DefaultTexture2_D.uasset" SILENT=true
+[2024.02.19-17.04.52:373][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_DefaultTexture2_D
+[2024.02.19-17.04.52:374][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_DefaultTexture2_D7FFCA22F4F629129309A10B5080996C2.tmp' to '../../../Engine/Content/EngineMaterials/T_DefaultTexture2_D.uasset'
+[2024.02.19-17.04.52:377][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg" FILE="../../../Engine/Content/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg.uasset" SILENT=true
+[2024.02.19-17.04.52:379][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg
+[2024.02.19-17.04.52:380][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/T_SphereShadow_RGBA_5-15-30-60deBFE812844F1D0C3387E63D9FFD0565F0.tmp' to '../../../Engine/Content/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg.uasset'
+[2024.02.19-17.04.52:399][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/TargetIcon" FILE="../../../Engine/Content/EngineMaterials/TargetIcon.uasset" SILENT=true
+[2024.02.19-17.04.52:401][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/TargetIcon
+[2024.02.19-17.04.52:401][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/TargetIcon42534AEE48861BD5538C6187591C3E56.tmp' to '../../../Engine/Content/EngineMaterials/TargetIcon.uasset'
+[2024.02.19-17.04.52:404][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/TargetIconSpawn" FILE="../../../Engine/Content/EngineMaterials/TargetIconSpawn.uasset" SILENT=true
+[2024.02.19-17.04.52:405][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/TargetIconSpawn
+[2024.02.19-17.04.52:406][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/TargetIconSpawn6121523D46F3461D26BB02A039A1A5FC.tmp' to '../../../Engine/Content/EngineMaterials/TargetIconSpawn.uasset'
+[2024.02.19-17.04.52:408][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/Tick" FILE="../../../Engine/Content/EngineMaterials/Tick.uasset" SILENT=true
+[2024.02.19-17.04.52:410][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/Tick
+[2024.02.19-17.04.52:410][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/Tick8F63764744B121C9FC9D7D85BBCF1536.tmp' to '../../../Engine/Content/EngineMaterials/Tick.uasset'
+[2024.02.19-17.04.52:412][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/TreeArrow_Collapsed" FILE="../../../Engine/Content/EngineMaterials/TreeArrow_Collapsed.uasset" SILENT=true
+[2024.02.19-17.04.52:414][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/TreeArrow_Collapsed
+[2024.02.19-17.04.52:414][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/TreeArrow_CollapsedF92056984F56C690914D299E26517177.tmp' to '../../../Engine/Content/EngineMaterials/TreeArrow_Collapsed.uasset'
+[2024.02.19-17.04.52:417][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/TreeArrow_Expanded" FILE="../../../Engine/Content/EngineMaterials/TreeArrow_Expanded.uasset" SILENT=true
+[2024.02.19-17.04.52:418][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/TreeArrow_Expanded
+[2024.02.19-17.04.52:418][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/TreeArrow_Expanded75C50938454ED7C6177BD89E51BA2EF2.tmp' to '../../../Engine/Content/EngineMaterials/TreeArrow_Expanded.uasset'
+[2024.02.19-17.04.52:421][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/TreeArrow_ExpandedRealtimePreview" FILE="../../../Engine/Content/EngineMaterials/TreeArrow_ExpandedRealtimePreview.uasset" SILENT=true
+[2024.02.19-17.04.52:422][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/TreeArrow_ExpandedRealtimePreview
+[2024.02.19-17.04.52:423][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/TreeArrow_ExpandedRealtimePrevie2BB8A89E4E1540ADFAE70D841C859A8F.tmp' to '../../../Engine/Content/EngineMaterials/TreeArrow_ExpandedRealtimePreview.uasset'
+[2024.02.19-17.04.52:425][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/UnrealEdIcons" FILE="../../../Engine/Content/EngineMaterials/UnrealEdIcons.uasset" SILENT=true
+[2024.02.19-17.04.52:426][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/UnrealEdIcons
+[2024.02.19-17.04.52:427][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/UnrealEdIcons8C4E3728423C3B3EC006718447598ABB.tmp' to '../../../Engine/Content/EngineMaterials/UnrealEdIcons.uasset'
+[2024.02.19-17.04.52:429][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/WeightMapPlaceholderTexture" FILE="../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" SILENT=true
+[2024.02.19-17.04.52:430][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/WeightMapPlaceholderTexture
+[2024.02.19-17.04.52:431][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/WeightMapPlaceholderTexture957327A8456E2DEBF27055B3834C459E.tmp' to '../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset'
+[2024.02.19-17.04.52:433][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/WidgetGridVertexColorMaterial" FILE="../../../Engine/Content/EngineMaterials/WidgetGridVertexColorMaterial.uasset" SILENT=true
+[2024.02.19-17.04.52:434][213]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/WidgetGridVertexColorMaterial
+[2024.02.19-17.04.52:435][213]LogSavePackage: Moving '../../../../../../Users/FranciscLegion/Documents/GitHub/FoodWasteGame-Trial/Saved/WidgetGridVertexColorMaterial7265652649AB96288BF7178F4548CF6E.tmp' to '../../../Engine/Content/EngineMaterials/WidgetGridVertexColorMaterial.uasset'
+[2024.02.19-17.04.52:447][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 744 ms
+[2024.02.19-17.04.54:471][279]LogSlate: Window '78 Texture2D Objects - Property Matrix Editor' being destroyed
+[2024.02.19-17.04.54:484][279]LogSlate: Window '78 Texture2D Objects - Property Matrix Editor' being destroyed
+[2024.02.19-17.05.33:409][683]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.02.19-17.05.33:427][683]LogWindows: Error: appError called: Assertion failed: IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\SharedPointer.h] [Line: 1082] 
+
+
+[2024.02.19-17.05.33:427][683]LogWindows: Windows GetLastError: The operation completed successfully. (0)

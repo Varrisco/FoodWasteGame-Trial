@@ -46,6 +46,7 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineDebugMaterials\DebugMeshMaterial
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineDebugMaterials\M_SimpleTranslucent
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineDebugMaterials\M_SimpleUnlitTranslucent
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineFonts\Roboto
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineFonts\RobotoDistanceField
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\BaseFlattenDiffuseMap
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\BaseFlattenDiffuseMap_VT
@@ -69,6 +70,7 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultMaterial
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultPhysicalMaterial
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultPostProcessMaterial
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultTextMaterialOpaque
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultWhiteGrid
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultWhiteGrid_Low
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\EmissiveMeshMaterial
@@ -96,6 +98,7 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\Widget3DPassThrough_Opaque
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\Widget3DPassThrough_Opaque_OneSided
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\Widget3DPassThrough_Translucent
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\Widget3DPassThrough_Translucent_OneSided
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\WorldGridMaterial
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineMeshes\Sphere
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EngineResources\Black

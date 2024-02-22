@@ -9,5 +9,10 @@ public class MyProject2 : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
         PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "NavigationSystem", "AIModule", "Niagara", "EnhancedInput" });
-    }
+    
+		PrivateDependencyModuleNames.AddRange(new string[] {
+			"ChunkDownloader",
+			"Http"
+		});
+	}
 }

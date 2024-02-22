@@ -1,3 +1,0 @@
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Storing\Structures\TipsDataTable
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Storing\Structures\TipsStruct
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Maps\StoringLevel

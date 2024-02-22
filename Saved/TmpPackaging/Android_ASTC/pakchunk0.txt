@@ -612,6 +612,7 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_LevelRequired
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_LevelUp
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_MainMenu
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_ManageSave
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_Options
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_SwipeClue
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_XPBar

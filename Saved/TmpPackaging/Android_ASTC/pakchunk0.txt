@@ -285,7 +285,6 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Cooking\Structures\Cooking_Manager
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Cooking\Structures\CookingTools
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Cooking\Structures\CookingToolsTable
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Cooking\Structures\DataAssets\ApplePureeDataAsset
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Cooking\Structures\ECookToolType
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Cooking\Structures\RecipeDataAsset
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\Customization\AllCustomizationOptions\lambert35
@@ -364,7 +363,6 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Cherry_juice
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Chicken
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Cookies
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Cooking\Sandwich_B
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Demo_Meshes\Bundt_Cake
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Demo_Meshes\FoodBowl
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\LevelsParameters\MeshesAndMaterials\Demo_Meshes\Salmon_fillet
@@ -521,8 +519,10 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BP_MainGameInstance
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BP_TopDownCharacter
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BP_TopDownPlayerController
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BPI_SaveGame
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\CommonFunctionsLibrary
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\LevelingStuff\LevelingComponent
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\PlayerSaveStruct
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\SaveData
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Input\Actions\IA_SetDestination_Click
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Input\Actions\IA_SetDestination_Touch

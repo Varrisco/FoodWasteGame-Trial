@@ -515,6 +515,7 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Movies\M_IntroVideoPT
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\StarterContent\Textures\T_Smoke_SubUV
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\StarterContent\Textures\T_Smoke_Tiled_D
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\Telemetry\AnalyticsManager
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BP_ChangeLevelZone
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BP_MainGameInstance
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\TopDown\Blueprints\BP_TopDownCharacter
@@ -616,5 +617,7 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_Options
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_SwipeClue
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\UIElements\WBP_XPBar
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Plugins\Fetch\Content\GoogleAnalytics\Blueprints\GoogleAnalyticsManager
+C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Plugins\Fetch\Content\GoogleAnalytics\Blueprints\LibGoogleAnalytics
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\ShaderArchive-MastersCoD_Chunk0-GLSL_ES3_1_ANDROID-OPENGL_ES3_1_ANDROID.ushaderbytecode
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\MastersCoD\Content\ShaderArchive-MastersCoD_Chunk0-SF_VULKAN_ES31_ANDROID-VULKAN_ES3_1_ANDROID.ushaderbytecode

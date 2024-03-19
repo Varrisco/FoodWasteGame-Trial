@@ -20,7 +20,8 @@
 			"LoadingPhase": "Default",
 			"PlatformAllowList": [
 				"Win64",
-				"Mac"
+				"Mac",
+				"Android"
 			]
 		}
 	]

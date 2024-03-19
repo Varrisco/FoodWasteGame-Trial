@@ -27,7 +27,6 @@ C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Androi
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorMeshes\Camera\SM_CraneRig_Mount
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorMeshes\Camera\SM_RailRig_Mount
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorMeshes\Camera\SM_RailRig_Track
-C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorResources\BadBlueprintSprite
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorResources\BSPVertex
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorResources\EmptyActor
 C:\Users\FranciscLegion\Documents\GitHub\FoodWasteGame-Trial\Saved\Cooked\Android_ASTC\Engine\Content\EditorResources\FieldNodes\_Resources\M_FieldVolumePreview
